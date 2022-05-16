@@ -15,15 +15,21 @@ Routers are the liquidity and infrastructure providers of the Connext network. T
 
 # Router Track Proposals
 
-Router Track participants will have the possibility to send proposals to build various tools for the Router community, that will improve the Router experience. Head out to "proposals" directory within this repository and create a .md file with your discord handle, an example of a file would be: "flavian | bwarelabs.com#1898.md".
+Router Track participants will have the possibility to send proposals to build various tools for the Router community, that will improve the Router experience. Head out to "proposals" directory within this repository and create a .md file with your github handle, an example of a file would be: "fmanea.md".
 
-The content of the file should contain any kind of proposal that you would want to build.
+The content of the file should contain the discord handle of the participant (or if it's a group of people working on a big feature, their discord handles).
+Also, the content of the file should contain any kind of proposal that you would want to build.
+
+> Note: `We will accept pull requests only if the .md file matches the github handle`
 
 # Router Track Submissions
 
-Head out to "submissions" directory within this repository and create a .md file with your discord handle, an example of a file would be: "flavian | bwarelabs.com#1898.md". 
+Head out to "submissions" directory within this repository and create a .md file with your Github handle, an example of a file would be: "fmanea.md". 
 
-The content of the file should contain all the submissions and work that a Router track participant has made.
+The content of the file should contain the discord handle of the participant (or if it's a group of people working on a big feature, their discord handles).
+Also. all the submissions and work that a Router track participant has made should be written in that file.
+
+> Note: `We will accept pull requests only if the .md file matches the github handle`
 
 # Router Track Missions
 
@@ -32,8 +38,8 @@ Each week there will be some missions for the Router Track participants in which
 
 # Router Track Mission 1 (09.05-16.05)
 
-1. Spinning up a router on the testnet (10-30 points depends on feedback /improvements proposals)
-2. Сhoose the activity which you intend to work on over the course of the program (5 points)
+1. Spinning up a router on the testnet (10-30 points that depends on feedback /improvements proposals)
+2. Choose the activity which you intend to work on over the course of the program (5 points)
 3. Answer questions and help others to run router in this Discord channel (1-10 points)
 
 ### How to get maximum points? 
@@ -42,5 +48,8 @@ Key evaluation criteria are quality (for docs/ guides/mentoring) and impact (for
 
 # Router Track Mission 2 (16.05-23.05)
 
-
+1. Video guide with a step-by-step running router in any language (5-100 points)
+2. Guides and your experience articles about running router in socials (medium etc.) in any language (5-50 points)
+3. Answer questions and help others to run router in this Discord channel (1-10 points)
+4. Feedback/improvement proposals/building high impact tools (5-500 points)
 
