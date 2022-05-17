@@ -26,3 +26,8 @@ improvements proposals: we need official shell scrit for run node i think user o
 - I am answer questions & share step setup node my guide now live at  medium & twitter , answer questions issue Görli whitelist.
 https://medium.com/@nizeimbaboy.2/how-to-run-node-connext-node-v-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2-6a6cd3406e19
 https://twitter.com/Synthetizz/status/1526604764804710401
+
+my share step & answer
+https://discord.com/channels/454734546869551114/974586645418475530/976164314807427072
+https://discord.com/channels/454734546869551114/864880447163334666/976163735888601129
+https://discord.com/channels/454734546869551114/966239886829060096/976167593243209772
