@@ -43,6 +43,6 @@ and some chain bridges take too long.
 
 3) Answer questions and help others to run router in this Discord channel (1-10 points)
 - I've answered the question and created a Docker and Router installation guide in Thai to guide the installer for beginners. This my guide
-https://github.com/PS-PSN/Connext/blob/main/Setup%20Routers%20(Thai)
+  https://github.com/PS-PSN/Connext/blob/main/Setup%20Routers%20(Thai)
 
 - https://discordapp.com/channels/454734546869551114/974586645418475530/974589296814206986
