@@ -6,7 +6,7 @@
 My router address is: 0x6776cdDAF40950394b6f5990FE477261f0872312
 URL: https://testnet.amarok.connextscan.io/router/0x6776cdDAF40950394b6f5990FE477261f0872312
 
-Add liquidity
+Add liquidity:
 Rinkeby, Kovan  Completed
 Görli  not Complete wait for whitelist
 
@@ -14,6 +14,10 @@ Added liquidity:
 - Rinkeby URL: 0x24333f81a3a6eb870fdf6ce28b85fd3c73daa7dfc491d9c798c1a25a4b388e50
 - Kovan URL: 0xa44f1b84a995d02634a8fb915949b7c1809488799d26acfac62a1e999ca89c5f
 - Görli URL : N/A
+
+Test bridge:
+Rinkeby, Kovan  Completed
+Görli  not Complete wait for whitelist
 
 Feedback: i think is good way & easy to run node if know basic linux but not friendly common user
 improvements proposals: we need official shell scrit for run node i think user only write ADDRESS , Private key , ROUTER_VERSION  via command read & echo to shell script
@@ -33,3 +37,7 @@ my share step & answer
 https://discord.com/channels/454734546869551114/974586645418475530/976164314807427072
 https://discord.com/channels/454734546869551114/864880447163334666/976163735888601129
 https://discord.com/channels/454734546869551114/966239886829060096/976167593243209772
+
+
+Router Track Mission 2 (16.05-23.05)
+
