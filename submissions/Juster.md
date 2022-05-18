@@ -17,7 +17,7 @@
 
         Some of Transaction Hashes:    
         - 0xa2bc236382753dc7904aeaafe074be020c4d32f1a05d9a9a776bf31df9e23854
-	      - 0xe97c0886607f420bdf289ed60c520e1bd61f57e57a527af08dd8e893be48aa21
+	- 0xe97c0886607f420bdf289ed60c520e1bd61f57e57a527af08dd8e893be48aa21
         - 0x039a019dad215a098bdf5847f8b33fa9e755a538fd731d77f70dab8fcc5c844f
 
    
