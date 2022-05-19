@@ -35,6 +35,8 @@ I will try my best to support Connext with my most abilities and help the commun
       https://medium.com/@roojthemighty/how-to-spin-up-a-router-on-connext-network-ver-%E0%B9%84%E0%B8%97%E0%B8%A2-f5405ac3a6dc
     - I have made a English version guide on how to spin up a router:
       https://medium.com/@roojthemighty/how-to-spin-up-a-router-on-connext-network-ver-eng-4ff391b05d94
+    - I have made a English version guide on how to mint $TEST tokens on Connext Testnet Network
+      https://medium.com/@roojthemighty/how-to-mint-test-tokens-on-connext-testnet-e14c5fbafafe
       
 2) Answer questions and help others to run router in this Discord channel (1-10 points)
     - Some of my contributions are:
