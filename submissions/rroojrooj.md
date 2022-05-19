@@ -33,8 +33,16 @@ I will try my best to support Connext with my most abilities and help the commun
 1) Guides and your experience articles about running router in socials (medium etc.) in any language
     - I have made a Thai version guide on how to spin up a router:
       https://medium.com/@roojthemighty/how-to-spin-up-a-router-on-connext-network-ver-%E0%B9%84%E0%B8%97%E0%B8%A2-f5405ac3a6dc
+    - I have made a English version guide on how to spin up a router:
+      https://medium.com/@roojthemighty/how-to-spin-up-a-router-on-connext-network-ver-eng-4ff391b05d94
       
 2) Answer questions and help others to run router in this Discord channel (1-10 points)
     - Some of my contributions are:
         - https://discord.com/channels/454734546869551114/966239886829060096/976314153335664704
         - https://discord.com/channels/454734546869551114/966239886829060096/976331107635175434
+        - https://discord.com/channels/454734546869551114/966239886829060096/976524673984626698
+        - https://discord.com/channels/454734546869551114/966239886829060096/976525327390089228
+        - https://discord.com/channels/454734546869551114/966239886829060096/976672368850268240
+        - https://discord.com/channels/454734546869551114/966239886829060096/976672815929503825
+
+
