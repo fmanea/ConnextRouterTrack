@@ -13,6 +13,15 @@ Be sure to join Connext's official Discord server to receive updates about the C
 
 Routers are the liquidity and infrastructure providers of the Connext network. Their main purpose is to relay funds and calldata across chains. In exchange, they receive fees for their services.
 
+# Router Track Program Eligibility - How to Apply
+
+The application process consists of several steps. **You** **must complete all of these steps** to participate:
+
+1. [Join our discord.](https://discord.gg/connext)
+2. Fill out the [Contributor Program application form](https://form.typeform.com/to/tSBsjYxh).
+3. After completing the form you will be sent an email with a KYC link and a document to sign.
+4. The KYC process can take up to 24 hours to complete - if approved, you will receive an email confirming your acceptance into the program.
+
 # Router Track Proposals
 
 Router Track participants will have the possibility to send proposals to build various tools for the Router community, that will improve the Router experience. Head out to "proposals" directory within this repository and create a .md file with your github handle, an example of a file would be: "fmanea.md".

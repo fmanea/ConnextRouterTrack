@@ -1,5 +1,6 @@
-Discord Handle: sazhiv#2581
-Router Track Mission 1 (09.05-16.05)
+# Discord Handle: sazhiv#2581
+## Router Track Mission 2 (09.05-16.05)
+
 Spinning up a router on the testnet
 
 1. Router address is: 0xe5784bBFdA0Ee1Ade117d0A91d3198f7D0B903d5
@@ -29,3 +30,15 @@ Spinning up a router on the testnet
    Last week I actively participated in a discussion on Discord. In the beginning I asked questions myself, and later I helped new participants with their answers.
    Here are some of my answers: https://discord.com/channels/454734546869551114/966239886829060096/975702643831881739
    https://discord.com/channels/454734546869551114/966239886829060096/975703520831496212
+
+## Router Track Mission 2 (16.05-23.05)
+
+1) Guides and your experience articles about running router in socials (medium etc.) in any language
+    - I have made a Russian version guide on how to spin up a router:
+      https://medium.com/@alexzhurba/spinning-up-connext-router-fe3260912f0a
+      
+2) Answer questions and help others to run router in this Discord channel (1-10 points)
+    - Some of my contributions are:
+    - https://discord.com/channels/454734546869551114/966239886829060096/976054828885241897
+    - https://discord.com/channels/454734546869551114/966239886829060096/976087581576028220
+    - https://discord.com/channels/454734546869551114/966239886829060096/976219451047436348
