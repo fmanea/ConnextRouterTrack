@@ -11,7 +11,7 @@ Added some liquidity on Rinkeby: https://rinkeby.etherscan.io/token/0xB7b1d3cC52
 
 Added liquidity on Kovan: https://kovan.etherscan.io/tx/0xb01787aa5f9b774f0cab34cb92f1251cd63970fc57fe43986692c88cf0cf929e
 
-Test Bridge: https://rinkeby.etherscan.io/tx/0xb2702c7176c82ab3a7f1f64b92646f9c0a55bc84a84739933650215a5cf3fbef
+Test Bridge: https://testnet.amarok.connextscan.io/tx/0xd4be268e9b4759577a2df724828d3523db973211b90fafae4bdcbd3691b08292
 
 Feedback: Network is fine, not complex but on Rinkeby the transaction was successful but liquidity sill equal to 0 and can't add liquidity on Goerli 
 
