@@ -16,8 +16,12 @@ Test Bridge: https://rinkeby.etherscan.io/tx/0x265e14a4586b68996f239959f5b1af396
 
 Feedback: Test network works fine, everything is fine and I'm still stuck problem can't add lp goelri.
 
+
 2. Choose the activity which you intend to work on over the course of the program
+
 I'm writing a guildline to help beginner run routers for help people in the connext community and my community.
 
+
 3. Answer questions and help others to run router in this Discord channel
+
 Unfortunately, I don't have time to reply on Discord right now but i answer the question of my friend for help him to run router in my community
