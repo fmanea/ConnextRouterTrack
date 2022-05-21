@@ -24,5 +24,5 @@
       - https://github.com/louwo/Report-guide/blob/main/micro-guide.md
           > Some do not know how to send a report correctly, so I decided to make a small guide
 
-      -  https://github.com/louwo/Guide-for-routers/blob/main/README.md
+      -  https://github.com/louwo/Guide-for-routers
          >Step by step guide for spin up the router
