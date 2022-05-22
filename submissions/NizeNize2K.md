@@ -40,7 +40,7 @@ improvements proposals: we need official shell scrit for run node i think user o
 
 
 2. Guides and your experience articles about running router in socials (medium etc.) in any language
-- Guide Step up Node (TH version) - https://medium.com/@nizeimbaboy.2/how-to-run-node-connext-node-v-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2-6a6cd3406e19
+- Guide Setup Node (TH version) - https://medium.com/@nizeimbaboy.2/how-to-run-node-connext-node-v-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2-6a6cd3406e19
 
 - Guide Add Liquidity (TH version) - https://medium.com/@nizeimbaboy.2/how-to-add-liquidity-in-connext-2655559eea46
 
