@@ -20,10 +20,10 @@ Rinkeby to Goerli completed:
 https://rinkeby.etherscan.io/tx/0x32061ccf8f15816ab4eea36b0b0ba435660a234f696a2a4f7c0b74d350694f81
 
 
-2.Choose the activity which you intend to work on over the course of the program
+2.Choose the activity which you intend to work on over the course of the program.
 
 Helps others who are newbie like me to get router running up.
 
-3.Answer questions and help others to run router in this Discord channel
+3.Answer questions and help others to run router in this Discord channel.
 
 Even if this is my first router setup but I am willing to share this experience to help others running router.
