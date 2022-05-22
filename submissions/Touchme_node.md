@@ -18,4 +18,6 @@
    - First time building node and programing
 
 3) Answer questions and help others to run router in this Discord channel (1-10 points).
-   -
+   - https://discord.com/channels/454734546869551114/974586645418475530/977969601126236260
+   https://discord.com/channels/454734546869551114/974586645418475530/977969841413693522
+   https://discord.com/channels/454734546869551114/864880447163334666/977970267332702219
