@@ -16,16 +16,13 @@ Test Bridge:     https://testnet.amarok.connextscan.io/tx/0x71b9395b57fbd6c110ee
 
 
 
-Feedback: Good-working testnet, everything was great. All operations passed without any problem. Interface is very intuitive and I found no errors there. Waiting for next stage of this perspective project
-
-
 2. Choose the activity which you intend to work on over the course of the program
 
     I will make a medium guide for others in TH language. or clip video maybe.
 
 
 3. Answer questions and help others to run router in this Discord channel
-    I help with my community to run the router test. I will extend it later sir!  
+    I help with my community to run the router test. I will extend it later :)  
 
 
                  
