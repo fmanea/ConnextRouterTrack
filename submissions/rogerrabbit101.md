@@ -17,4 +17,4 @@ Bridge Wait for Whitelist
 I want to share my knowledge and provide knowledge about run node, answer questions and help problems for those interested in running connext node.
 and will share various updates of connext via social media
 
-3. Answer questions and help others to run router in this Discord channel  
+3. Answer questions and help others to run router in this Discord channel
