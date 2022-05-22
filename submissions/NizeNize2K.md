@@ -46,6 +46,8 @@ improvements proposals: we need official shell scrit for run node i think user o
 
 - Guide Add Liquidity (ENG versionn)- https://medium.com/@nizeimbaboy.2/how-to-add-liquidity-in-connext-f0f6bfedeabc
 
+- Guide How to submit missoin router track - https://medium.com/@nizeimbaboy.2/how-to-submit-connext-router-track-thai-version-8cddcd94c735
+
 
 3. Answer questions and help others to run router in this Discord channel
 - my share step & Answer questions
