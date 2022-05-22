@@ -18,5 +18,4 @@
    - First time building node and programing
 
 3) Answer questions and help others to run router in this Discord channel (1-10 points).
-   - I'm helping new guys to run router.
-    
+   -
