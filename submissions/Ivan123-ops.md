@@ -30,3 +30,29 @@ Performed a swap from Kovan to Rinkeby of 200 TEST
     https://discord.com/channels/454734546869551114/966239886829060096/974645812325941288
     https://discord.com/channels/454734546869551114/871066268466302976/974646010489995304
     https://discord.com/channels/454734546869551114/966239886829060096/974656881404555294
+
+
+ # Router Track Mission 2 (16.05-23.05)
+
+
+
+ 1. Video guide with a step-by-step running router in any language 
+     I made video in English about spinning up a Connext Router! 
+    https://youtu.be/jwRR45-ycSw
+
+
+ 2. Guides and your experience articles about running router in socials (medium etc.)
+     I made a medium guide about spinnig up a router! It is in Russian but can be used by anyone since commands are readible.
+https://7nda.medium.com/запуск-роутера-connext-d6335e7e962e
+
+
+ 3. Answer questions and help others to run router in this Discord channel 
+     https://discord.com/channels/454734546869551114/966239886829060096/978007507857449050
+     https://discord.com/channels/454734546869551114/966239886829060096/978001459532693524
+     https://discord.com/channels/454734546869551114/966239886829060096/977107424144138241
+     https://discord.com/channels/454734546869551114/871066268466302976/977136579376205834
+
+
+ 4. Feedback/improvement proposals/building high impact tools 
+       Everything is good so far. I wish you update router page to improve the design and make a faucet button on a router page. 
+       Also waiting for Goerli to work. And maybe a leaderboard of routers to see how other routers do? 
