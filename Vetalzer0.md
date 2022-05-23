@@ -35,7 +35,7 @@
 
      - Provide feedback and create improvement proposals
 
-     - Mentoring & suppors
+     - Mentoring & support
 
 
 
