@@ -29,4 +29,4 @@ improvements proposals: If there is a blog where all instruction is included, it
 
 
 Router Track Mission 2 (16.05-23.05)
-- Let's me figure out and expertise this task then I will be helpful in the discord and also writing some blog to help others.
+- Let's me figure out and expertise this task then I will be helpful in the discord and also writing some blog to help others
