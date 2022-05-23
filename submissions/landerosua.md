@@ -30,3 +30,27 @@
     - This week I helped the participants with the installation in the profile discords, next week I will try to devote more time to the main discord of the project.
 
 4) Proposals: Adding more networks to test, for example, you can add Ropsten network.
+
+## Router Track Mission 2 (16.05-23.05)
+
+1) Video guide with a step-by-step running router in any language
+
+    - Made a video in my native language about the launch of the Connext Router!
+	https://youtu.be/2_OAz9nIls8
+
+2) Guides and your experience articles about running router in socials (medium etc.) in any language
+
+   - I wrote a guide in Russian, link:  
+	https://teletype.in/@landeros/zd69DV9Z1lY
+   - Also posted this guide on my twitter:
+	https://twitter.com/landerosua_/status/1528740796534513666
+
+3) Answer questions and help others to run router in this Discord channel
+
+   - I actively follow the discord, I hope my guide can help the community.
+
+4) Feedback/improvement proposals/building high impact tools
+
+   - In general, everything is fine.It would be a good idea to evaluate the work for the past period and update it after each period of work (week) so that each participant can evaluate their efforts.
+
+   - Unfortunately, I still cannot add liquidity to the Goerli network, I get an error.
