@@ -28,4 +28,7 @@
     - Creating and improving docs and guides 
 
 3) Answer questions and help others to run router in this Discord channel (1-10 points)
+     
+     https://discord.com/channels/454734546869551114/966239886829060096/978017816265498696
+     
     
