@@ -45,7 +45,7 @@ Also. all the submissions and work that a Router track participant has made shou
 Each week there will be some missions for the Router Track participants in which they will be rewarded with some points for delivering that activity.
 
 
-# Router Track Mission 1 (09.05-16.05)
+## Router Track Mission 1 (09.05-16.05)
 
 1. Spinning up a router on the testnet (10-30 points that depends on feedback /improvements proposals)
 2. Choose the activity which you intend to work on over the course of the program (5 points)
@@ -55,10 +55,78 @@ Each week there will be some missions for the Router Track participants in which
 
 Key evaluation criteria are quality (for docs/ guides/mentoring) and impact (for improvement proposals,  feedback and tools). Connext should aim to be a self served platform also for routers, and we need to make sure documentations and guides serve this purpose.
 
-# Router Track Mission 2 (16.05-23.05)
+## Router Track Mission 2 (16.05-23.05)
 
 1. Video guide with a step-by-step running router in any language (5-100 points)
 2. Guides and your experience articles about running router in socials (medium etc.) in any language (5-50 points)
 3. Answer questions and help others to run router in this Discord channel (1-10 points)
 4. Feedback/improvement proposals/building high impact tools (5-500 points)
+
+## Router Track Mission 3 (23.05-30.05)
+1. Testnet Upgrade - Add liquidity to the new contract (10-30 points)
+2. Flash Challanges (10-100 points)
+
+
+# Flash Challange
+
+The flash challenge is quality based, and the sumissions that are picked for this activity will receive rewards. 
+
+## Flash Challenge 1 - Explore all guides, and gather them in one place in Docs 
+
+1. Create Guides page in Docs https://docs.connext.network/routers/guides
+2. Explore every guide written by other routers, group them by type (text/video), running way (AWS/Google/DO, Dedicated server, local home computer, kubernetes),  language, etc. Links to the guides you can find here https://github.com/fmanea/ConnextRouterTrack/tree/main/submissions 
+3. Guides should be numbered
+4. Brief overviews are welcome for those guides which have something special (highlight uniqueness)
+
+## Flash Challenge 2 - Complete the routers documentation intro
+
+Now we have "page no found" status, when we follow the link https://docs.connext.network/Routers/intro/ 
+
+You should fix it - add detailed info on the following topics:
+- who are routers
+- why do we need them in Connext
+- security assumptions and risks 
+- business model
+
+The basic info is presented in the blog but it may be improved, You should review, figure out what information is missing
+
+Github for PR https://github.com/connext/documentation
+
+
+# Router Connext Quests 
+
+These Challanges are more complex and are not time based. They require approval for starting working on it. How does it work? 
+1. Submit a proposal on this repository, in the "proposals" directory (Check Router Track Proposal Guide above)  
+2. Talk with the Track Leaders/Team and get approval for starting the work on this challange;
+3. The Track Leaders will move the approved proposals into the "approved_proposals" folder where the progress will be tracked;
+
+## Quest 1 - Build Tools (10-500 points)
+
+Build high impact tools to improve the router experience. We are waiting for your proposals:)
+
+## Quest 2 - Quick router setup (10-500 points)
+
+Router setup scripts for quick running routers on clouds and dedicated servers.
+
+Examples: 
+- Terraform + Ansible; or
+- Setup based on any kind of scripting languages (Ex: Bash Scripts); or
+- Any kind of Infrastructure as a code; 
+- Guide / documentation on how to use them;
+
+Our dream is a tool for running routers with just 1 click. Don’t hesitate to propose any tools which will simplify the process. 
+
+## Quest 3 - Alerting system for Routers (10-500 points)
+
+Create alerting tool (telegram bot/slack/ etc.)
+
+Examples:
+- Integrate Alert Manager into the Docker Compose;
+- Use Alert Manager to send alerts to Slack / Telegra/ Discord Channels; 
+
+## Quest 4 - Monitoring tools for Routers (10-500 points)
+
+Graphana dashboard or any kind of dashboard to have a better view of the metrics
+
+
 
