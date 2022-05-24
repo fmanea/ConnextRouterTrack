@@ -128,6 +128,7 @@ Examples:
 - Integrate Alert Manager into the Docker Compose;
 - Use Alert Manager to send alerts to Slack / Telegram/ Discord Channels; 
 - Use Grafana to send alerts on slack and integrate with a on-call tools
+
 We are also open the new ideas, please feel free to propose any alerting approaches.
 
 ## Quest 4 - Monitoring tools for Routers (10-500 points)
