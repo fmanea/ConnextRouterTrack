@@ -106,27 +106,39 @@ Build high impact tools to improve the router experience. We are waiting for you
 
 ## Quest 2 - Quick router setup (10-500 points)
 
-Router setup scripts for quick running routers on clouds and dedicated servers.
+Router setup scripts for quick-running routers on cloud platforms and dedicated servers. 
 
 Examples: 
-- Terraform + Ansible; or
-- Setup based on any kind of scripting languages (Ex: Bash Scripts); or
-- Any kind of Infrastructure as a code; 
-- Guide / documentation on how to use them;
+- Setup based on any kind of scripting language (Ex: Bash Scripts,Python);
+- Setup automate deployment using any kind of Infrastructure as a Code;(Ansible, Terraform or any other) 
+- Develop a router setup using npm or yarn instead of using docker-compose
+- Develop a router setup using helm or any kind of kubernetes manifests
 
-Our dream is a tool for running routers with just 1 click. Don’t hesitate to propose any tools which will simplify the process. 
+
+
+The goal would be a tool for running routers with just 1 click. Don’t hesitate to propose any tools which will simplify the process. Be creative, we are looking for different approaches. 
+
+Every submits needs a guide or documentation on how to use them, submitting without a doc we will be not taken into consideration.
 
 ## Quest 3 - Alerting system for Routers (10-500 points)
 
-Create alerting tool (telegram bot/slack/ etc.)
+Create an alerting tool (telegram bot/slack/ etc.)
 
 Examples:
 - Integrate Alert Manager into the Docker Compose;
-- Use Alert Manager to send alerts to Slack / Telegra/ Discord Channels; 
+- Use Alert Manager to send alerts to Slack / Telegram/ Discord Channels; 
+- Use Grafana to send alerts on slack and integrate with a on-call tools
+We are also open the new ideas, please feel free to propose any alerting approaches.
 
 ## Quest 4 - Monitoring tools for Routers (10-500 points)
 
-Graphana dashboard or any kind of dashboard to have a better view of the metrics
+Implement different  monitoring deployments or dashboard for the router
+
+Example:
+- Use different tools for deploying an observability stack(Ex: ElasticSearch, Kibana, CloudWatch)
+- Create Grafana dashboard
+
+Our dream is to have different approches to monitor the router metrics and logs. Each router deployment can be easily integrate with any kind of infrastructure.
 
 
 
