@@ -19,6 +19,11 @@
         - 0x3dd3c6c34923c0fdaaf4ab21f0b398decc364650334373d629315ddcb60872d1
         - 0x3c6a1e4ec685e1a5019ef2b39d591958097f62d8964913ca774ac01ee2ad93d7
 
+    - Transfering $TEST tokens between chain using the router account:
+
+        Some of Transaction Hashes:
+        - 0x3b4ded3bbc56aeb1495ad091b0f2e883b698df092b1bb91d337441520160a043
+
 I found out that document is a bit confusing especially for newcomers on the part that includes editing the three files 1) env.example 2) config.example.json 3) key.example.json. Therefore, I suggested that for 1) and 2), please add more detailed steps on how to edit these files, for example, using the "nano" function. For 3), please add links to some reliable private key generator such as https://allprivatekeys.com/mnemonic-code-converter so it prevent all malicious intentions. Another important point is to add a warning message telling the router operators to write down all seed phrase and private key so that no money is lost especially when mainnet launches.
 
 2) Activities that I intend to do are:
