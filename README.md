@@ -65,6 +65,7 @@ Key evaluation criteria are quality (for docs/ guides/mentoring) and impact (for
 ## Router Track Mission 3 (23.05-30.05)
 1. Testnet Upgrade - Add liquidity to the new contract (10-30 points)
 2. Flash Challanges (10-100 points)
+3. Router Connext Quests (10-500 points)
 
 
 # Flash Challange
