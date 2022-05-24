@@ -2,7 +2,7 @@
 
 # Router Track Mission 1 (09.05-16.05)
 
-1.Spinning up a router on the testnet
+## 1.Spinning up a router on the testnet
 My router address is: 0x6776cdDAF40950394b6f5990FE477261f0872312
 URL: https://testnet.amarok.connextscan.io/router/0x6776cdDAF40950394b6f5990FE477261f0872312
 
@@ -27,19 +27,19 @@ Feedback: i think is good way & easy to run node if know basic linux but not fri
 improvements proposals: we need official shell scrit for run node i think user only write ADDRESS , Private key , ROUTER_VERSION  via command read & echo to shell script
 
 
-2.Choose the activity which you intend to work on over the course of the program
+## 2.Choose the activity which you intend to work on over the course of the program
 - I want to share knowledge run node , help and answer questions beginner user interested run node , crate guideline setup node connext on medium.com , tweet Announcing an update node if connext team push new release for push all node up to date.
 
-3.Answer questions and help others to run router in this Discord channel
+## 3.Answer questions and help others to run router in this Discord channel
 - I am answer questions & share step setup node my guide now live at  medium & twitter , answer questions issue Görli whitelist.
 
 # Router Track Mission 2 (16.05-23.05)
 
-1. Video guide with a step-by-step running router in any language
+## 1. Video guide with a step-by-step running router in any language
 - Video guide connext node (THAI language)URL: https://www.youtube.com/watch?v=yX7B0PY1KiA
+---------------------
 
-
-2. Guides and your experience articles about running router in socials (medium etc.) in any language
+## 2. Guides and your experience articles about running router in socials (medium etc.) in any language
 - Guide Setup Node (TH version) - https://medium.com/@nizeimbaboy.2/how-to-run-node-connext-node-v-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2-6a6cd3406e19
 
 - Guide Add Liquidity (TH version) - https://medium.com/@nizeimbaboy.2/how-to-add-liquidity-in-connext-2655559eea46
@@ -48,8 +48,9 @@ improvements proposals: we need official shell scrit for run node i think user o
 
 - Guide How to submit missoin router track (TH version) - https://medium.com/@nizeimbaboy.2/how-to-submit-connext-router-track-thai-version-8cddcd94c735
 
+----------------------
 
-3. Answer questions and help others to run router in this Discord channel
+## 3. Answer questions and help others to run router in this Discord channel
 - my share step & Answer questions
 
 - https://discord.com/channels/454734546869551114/974586645418475530/976164314807427072
@@ -62,11 +63,14 @@ improvements proposals: we need official shell scrit for run node i think user o
 - https://discord.com/channels/454734546869551114/966239886829060096/977189886773854259
 - https://discord.com/channels/454734546869551114/974586645418475530/977863640818524200
 
+----------------------------------
 
-
-4. Feedback/improvement proposals/building high impact tools 
+## 4. Feedback/improvement proposals/building high impact tools 
 - Feedback: 
 manual easy setup with docker compose step but step config.json, key.yaml , .env is complex for a beginner.
+- building tools:
+script update version router URL: https://github.com/NizeNize2K/ConnextRouterTrack/tree/main
+
 
 - Improvement proposals: 
 1. Step Web3Signer Config is confused I'm suggest explain in detail how to generate private key  for config.
