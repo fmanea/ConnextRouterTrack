@@ -24,3 +24,24 @@
 3) Answer questions and help others to run router in this Discord channel (1-10 points)
 
     I was in some discussion on the Discord router channel with others
+
+
+## Router Track Mission 2 (16.05-23.05)
+
+
+
+ 1. Video guide with a step-by-step running router in any language 
+     I made video in Thai about spinning up a Connext Router! 
+     https://youtu.be/Tt6zBupfbF0
+
+
+ 2. Guides and your experience articles about running router in socials (medium etc.)
+     I made a medium guide about spinnig up a router! It is in Thai but can be used by anyone since commands are readible.
+     https://bit.ly/connext-router-setup
+
+
+ 3. Answer questions and help others to run router in this Discord channel 
+     https://discord.com/channels/454734546869551114/966239886829060096/976705092671668284
+     https://discord.com/channels/454734546869551114/966239886829060096/976715544025763870
+
+
