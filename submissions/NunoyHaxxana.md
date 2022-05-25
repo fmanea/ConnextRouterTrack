@@ -45,5 +45,6 @@ https://discord.com/channels/454734546869551114/974586645418475530/9783151145812
 
 
 4) Feedback/improvement proposals/building high impact tools
-- Building tools: script update version router URL: https://github.com/NunoyHaxxana/nxtp-router-setup
-
+- Building tools: script auto setup & update version router URL: https://github.com/NunoyHaxxana/nxtp-router-setup
+![170120882-96064529-8c8f-444d-880a-c9f4e188f6b1](https://user-images.githubusercontent.com/83507970/170330042-6e3e95d3-b363-4956-903f-71a8c464b48a.png)
+- Feedback/improvement proposals: split router log day by day for easy management disk space.
