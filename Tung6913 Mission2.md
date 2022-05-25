@@ -17,8 +17,10 @@
         Link Twitter Post : https://twitter.com/kttaang/status/1528665662054313984?s=20&t=cc35gX9-iizTigZvrOlzoQ
         
 3. Answer questions and help others to run router in this Discord channel 
-    I help answer some question for ppl who have question in Connext https://discord.com/channels/454734546869551114/966239886829060096/977570576606589019.
-    It's not that much since ppl do not have much question about router, but i'll try to anwser question as much as I can. However, not only within Connext Discrod
+    I help answer some question for ppl who have question in Connext 
+    https://discord.com/channels/454734546869551114/966239886829060096/977570576606589019.
+    https://discord.com/channels/454734546869551114/966239886829060096/978938372322127892
+    https://discord.com/channels/454734546869551114/974586645418475530/978891438332997672
     I also help my friends in my community on how to run router
     
     
