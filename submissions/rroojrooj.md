@@ -5,14 +5,14 @@
 
     - Router address is: 0xA605224608d1aF00e9320310d82e95f47935a38A
 
-    - Added liquidity  118,000 on Rinkeby: 
+    - Added liquidity  118,000 $TEST on Rinkeby: 
 
         Some of Transaction Hashes:
         - 0x3a2c6bcd3b8cc76b3c32a13fc3cdab152f6633a05d9d99b69d8efc672d0f2f09
         - 0x09c05d86ce806b044fe1e03189653304153bc87345b64acca04dfa3e471edefb
         - 0x43382b275ed6267eca5fda8808901232793e6107d36d7071629a7e6df669ea0c
 
-    - Added liquidity on 110,910 Kovan:
+    - Added liquidity on 110,910 $TEST Kovan:
 
         Some of Transaction Hashes:
         - 0xba246d57d31b460989cf7364dceeea395c99730a96be6d005b73860a32c9fa31
@@ -52,5 +52,19 @@ I will try my best to support Connext with my most abilities and help the commun
         - https://discord.com/channels/454734546869551114/966239886829060096/976672368850268240
         - https://discord.com/channels/454734546869551114/966239886829060096/976672815929503825
         - https://discord.com/channels/454734546869551114/966239886829060096/977002852738277436
+
+
+## Router Track Mission 3 (23.05-30.05)
+
+1. Testnet Upgrade (10-30 points)
+    - Added liquidity  20,000,000 $TEST on Rinkeby, Goeli, and Kovan after Testnet upgrade:
+        Transaction Hashes:
+        - 0x58a533996e8e9c75679c29c7ffb989dde3eab95cbb69556746e841bacac4863a (Rinkeby)
+        - 0x2b04e8646be275b61467d6bf4f14205a7e6ac099b63a59259b114c533fd8155d (Rinkeby)
+
+3. Flash Challanges (10-100 points)
+
+5. Router Connext Quests (10-500 points)
+
 
 
