@@ -22,10 +22,6 @@
    
    - Run and monitor a node, participate in network tests. 
 
-   - Translate any material from English -> PT-BR.
-
-   - Run other infra.
-
 
 3) Answer questions and help others to run router in this Discord channel (1-10 points).
    
