@@ -63,6 +63,8 @@ I will try my best to support Connext with my most abilities and help the commun
         - 0x2b04e8646be275b61467d6bf4f14205a7e6ac099b63a59259b114c533fd8155d (Rinkeby)
 
 3. Flash Challanges (10-100 points)
+    - Flash Challenge 1 - Explore all guides, and gather them in one place in Docs
+        - [Added Guides to the Router Docs](https://github.com/connext/documentation/pull/32)
 
 5. Router Connext Quests (10-500 points)
 
