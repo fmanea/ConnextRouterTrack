@@ -8,17 +8,19 @@
 
     Added liquidity:
         - Rinkeby 
-            Transaction Hash: 0x45dfe4161145e8e7e7d81e61471265e37320b05432714068c37669114422dbc8
-            URL: https://rinkeby.etherscan.io/tx/0x45dfe4161145e8e7e7d81e61471265e37320b05432714068c37669114422dbc8
-        - Kovan 
-            Transaction Hash: 0xabfea7c0795429753b60eab7ad2a96029dcb9a61338dc2123c6bae9ed4fff2ab
-            URL: https://kovan.etherscan.io/tx/0xabfea7c0795429753b60eab7ad2a96029dcb9a61338dc2123c6bae9ed4fff2ab
+            Transaction Hash: 0xd6b5d24af5d376c56048a4f8ee128950578b48046625f42103aec08dd43d9e8a
+            URL: https://rinkeby.etherscan.io/tx/0xd6b5d24af5d376c56048a4f8ee128950578b48046625f42103aec08dd43d9e8a
         - Görli URL : N/A
+            Transaction Hash: 0xa543682835c7d30d89d3c4b90d23ac49db38c9b8f01e797bcd5492339a79e697
+            URL: https://goerli.etherscan.io/tx/0xa543682835c7d30d89d3c4b90d23ac49db38c9b8f01e797bcd5492339a79e697
+        - Kovan 
+            Transaction Hash: 0x8036251a80fd8dca96eb5fd6dc8fe894bfd5b989f5f1a51ddf3864f0c56ee2fc
+            URL: https://kovan.etherscan.io/tx/0x8036251a80fd8dca96eb5fd6dc8fe894bfd5b989f5f1a51ddf3864f0c56ee2fc
 
     Test bridge:
         Rinkeby: Completed
+        Görli:  Completed
         Kovan:  Completed
-        Görli:  wait for whitelist
 
     Feedback:
         - Add liquidity 
