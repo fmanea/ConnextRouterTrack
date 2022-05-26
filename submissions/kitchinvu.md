@@ -18,9 +18,15 @@
             URL: https://kovan.etherscan.io/tx/0x8036251a80fd8dca96eb5fd6dc8fe894bfd5b989f5f1a51ddf3864f0c56ee2fc
 
     Test bridge:
-        Rinkeby: Completed
-        Görli:  Completed
-        Kovan:  Completed
+        Rinkeby: 
+            Transaction Hash: 0xdfff5ec9cc03b41e520fa2108a59c7fb6e3a274a7150bcd3b85e2d828e122da1
+            URL: https://testnet.amarok.connextscan.io/tx/0x85a744d7ed153dc3c0573309356a8c29a4f059d6a9d3041926f4b573a50fad9b
+        Görli:  
+            Transaction Hash: 0x03375d58bf95eff2bd744137723d466ba8018e83ca93b68e8d57f0749ba78ee9
+            URL: https://testnet.amarok.connextscan.io/tx/0x7d1b4ca69058fb78c452c0968411d6e6aa28f3e55bfcd65588cc1d2657d59792
+        Kovan:  
+            Transaction Hash: 0x3238e812a2f32c745db47796bc18393eae01d1df97ef75626915f382d1774e50
+            URL: https://testnet.amarok.connextscan.io/tx/0x0d20bd1d7bbd51c92aba3d4af06f55403c32ad659d3814cbae21bce09539d879
 
     Feedback:
         - Add liquidity 
