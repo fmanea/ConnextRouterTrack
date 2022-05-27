@@ -11,11 +11,11 @@ Added liquidity:
         - Görli URL: 0x54606e2e1cabc7b01f7323b585c5757caf40bbe90f0893f019606cf04faa25ae
 Test bridge:
         - Kovan -----> Rinkeby Transaction Hashes :
-        0xa49f42ee7cd5693fd1e8a31654ac37409c283402fd3e835c021d2737d3ff7fea
+        0xef64540d007a8cda6b1b9bf634cf6b1dca9d2233a14c31e2dfaf857ffd1563b2
         - Rinkeby -----> Görli Transaction Hashes :
-        0x5676fdc17bce62d05803417df1fb170562d1b1f6fbd19f2708bd0fb443dae254
+        0x98ff378f523aae6c06082c817ac40f21772b58cd2199ece93fd983bab5c425a2
         - Görli -----> Kovan Transaction Hashes :
-        0x8a2fdc88aa23b4fc837b879f46adcc88396efc9baacf20da3098acf196d30fad
+        0x4661dbe902f76f379e46273a8ac0ed22ad33299ff453d81b55653d9ebea7f152
         
 2.Choose the activity which you intend to work on over the course of the program
         - I will build the tool for new member to easy to running a router and create video tutorial for using the tool and help others to solve technical problems.
