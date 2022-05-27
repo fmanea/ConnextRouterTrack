@@ -35,5 +35,5 @@
 2) Guides and your experience articles about running router in socials (medium etc.) in any language
 
    I wrote my guide on github for quick installation (script) and for manual installation.<br>
-   Link to guide on github: https://github.com/martynovalek/NXTP-Router-setup
+   Link to guide on github: https://github.com/martynovalek/NXTP-Router-setup<br>
    Link to guide on Medium: https://medium.com/@martynovalek/spinning-up-nxtp-router-version-0-2-0-alpha-16-update-c30b2f740bd2
