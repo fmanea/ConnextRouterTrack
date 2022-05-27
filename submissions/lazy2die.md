@@ -35,7 +35,6 @@
       -i have also helped many of the router track contributors and they have also helped me,
       -i aslo have made walkthrough videos , https://drive.google.com/drive/folders/1y9a3QDr7z0wvxhiauOSePz9ThkspUdFG?usp=sharing  
       -i am also planning on running extra infrastructure like graph indexers
-  .
 
 3) Answer questions and help others to run router in this Discord channel (1-10 points)
 
@@ -45,6 +44,43 @@
     https://discord.com/channels/454734546869551114/966239886829060096/975683066846650418
     https://discord.com/channels/454734546869551114/966239886829060096/975813204871639063
     https://discord.com/channels/454734546869551114/966239886829060096/975043041834450954 (i send the required file to him directly)
+    
+## Router Track Mission 2 (16.05-23.05)
+
+1) Video guide with a step-by-step running router in any language (5-100 points)
+    
+    - i created a video guide with stepp by step running of router,
+    - its like a spinning up router walkthrough video , any body can understand it,
+    - my video is language independent , 
+    - here is the link :
+        -  https://drive.google.com/file/d/1qz4J4luXdcyPllfJDvY172uD5nggVFmx/view?usp=sharing
+
+2) Guides and your experience articles about running router in socials (medium etc.) in any language (5-50 points)
+
+    - i tweeted my experience and my opinion about CONNEXT,
+    - and also provided a small guide for my millions of foolowers(imaginary,i have about 4 followers, i am like an ai bot than an actual regular human :))
+    - interested in knowing more about CONNEXT (if i need to improve it tell me)
+    - here is the link :
+        -  https://twitter.com/ad_richand/status/1527932830398881792
+
+3) Answer questions and help others to run router in this Discord channel (1-10 points)
+
+    - i think for this, you guys should increase the points ;P , 
+    - i am always here (your guess is correct i dont have anythnig better to do :)) answering questions that i know or atleast directing them to the right person
+    - here is link to three of my newest help in discord: 
+        - https://discord.com/channels/454734546869551114/966239886829060096/976249776398012467
+        - https://discord.com/channels/454734546869551114/966239886829060096/976155786768187423
+        - https://discord.com/channels/454734546869551114/966239886829060096/975813204871639063
+
+4) Feedback/improvement proposals/building high impact tools (5-500 points)
+
+    - i have a suggestion try to incorporate FLASHBOTS to our CONNEXT, 
+    - we need to democratize any MEV opportunity in the future,
+    - instead of us coming up with something on our own, i think it would be better to include them
+      
+        
+    
+    
     
     
     
