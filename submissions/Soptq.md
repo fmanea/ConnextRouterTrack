@@ -35,3 +35,22 @@
        - https://discord.com/channels/454734546869551114/966239886829060096/975583558326440016
     3. Helped Nunuynungning#8021 mint test tokens and add liquidity to his router step by step in DM. 
        <img width="705" alt="dm" src="https://user-images.githubusercontent.com/32592090/168741720-f31ae2c5-6f34-489a-b98f-8f0124e86e6a.png">
+
+## Router Track Mission 2 (16.05-23.05)
+
+1) Video guide with a step-by-step running router in any language
+
+    N/A
+
+2) Guides and your experience articles about running router in socials (medium etc.) in any language
+
+    N/A
+
+3) Answer questions and help others to run router in this Discord channel
+
+    - https://discord.com/channels/454734546869551114/966239886829060096/976056809360068638
+    - DM with @bramz
+    <img width="559" alt="discord-dm" src="https://user-images.githubusercontent.com/32592090/170805241-79577caa-7a22-4aeb-b028-0660a2351915.png">
+
+4) Feedback/improvement proposals/building high impact tools
+    - https://github.com/connext/documentation/pull/20
