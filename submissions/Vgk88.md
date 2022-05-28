@@ -22,3 +22,27 @@ https://discord.com/channels/454734546869551114/966239886829060096/9749787069782
 https://discord.com/channels/454734546869551114/966239886829060096/975065315874598942
 https://discord.com/channels/454734546869551114/966239886829060096/975063189735755887
 https://discord.com/channels/454734546869551114/966239886829060096/975152658589581392
+
+Router Track Mission 2 (16.05-23.05)
+
+1. Video guide with a step-by-step running router in any language 
+https://www.youtube.com/watch?v=TTbssVrhL2s
+https://twitter.com/vadyhodler777/status/1528828878000619522
+
+2. Guides and your experience articles about running router in socials in any language 
+Create Ukrainian Router setup guide: 
+https://88vgk88.medium.com/%D0%BD%D0%B0%D0%BB%D0%B0%D1%88%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D1%80%D0%BE%D1%83%D1%82%D0%B5%D1%80%D0%B0-connext-3cd0fbdc5596
+https://twitter.com/vadyhodler777/status/1528887201882587137
+
+3. Answer questions and help others to run router in this Discord channel 
+https://discord.com/channels/454734546869551114/966239886829060096/976124109446594580
+https://discord.com/channels/454734546869551114/966239886829060096/976124796100296725
+https://discord.com/channels/454734546869551114/966239886829060096/976619253962797097
+https://discord.com/channels/454734546869551114/966239886829060096/976626803898716260
+https://discord.com/channels/454734546869551114/966239886829060096/977502670589947916
+https://discord.com/channels/454734546869551114/966239886829060096/977833163906777099
+
+4. Feedback/improvement proposals/building high impact tools 
+- Make additional workshops on launching additional infrastructure for routers (for example, TheGraph indexer).
+- Run a  routers stress test.
+- Run additional tests of bridge.
