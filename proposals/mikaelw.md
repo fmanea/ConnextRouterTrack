@@ -7,6 +7,7 @@
     - alertmanager and alertmanager-discord services will be added to the default docker-compose.yml file. 
     - Configuration files will be included with working settings.
   
-3. Project completion by latest end of Router Track Mission 3, May 30.
-4. Project success is verified by setting the DISCORD_WEBHOOK environment variable and seeing alert notifications in the designated discord channel.
-5. Previous experiences include development of exchange software and management of 24/7 server infrastructure.    
+2. Project completion by latest end of Router Track Mission 3, May 30.
+3. Project success is verified by setting the DISCORD_WEBHOOK environment variable and seeing alert notifications in the designated discord channel.
+4. Previous experiences include development of exchange software and management of 24/7 server infrastructure.    
+5. Pull request submitted https://github.com/connext/nxtp-router-docker-compose/pull/15
