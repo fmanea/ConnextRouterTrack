@@ -54,3 +54,27 @@
 
 4) Feedback/improvement proposals/building high impact tools
     - https://github.com/connext/documentation/pull/20
+
+## Router Track Mission 3 (23.05-30.05)
+
+1) Testnet Upgrade - Add liquidity to the new contract
+
+    - Router address is: 0xa31AEDC3F142bE941d8ab050A388Ed70f5882D66
+
+    - Added 10000 liquidity on Rinkeby: 
+
+        Some of Transaction Hashes:    
+        - 0x050aa4e354b3b4dc75eb14097f7cb7ba092d43cb54fbc779856810873631ca46
+
+    - Added 10000 liquidity on Kovan:
+
+        Some of Transaction Hashes:    
+        - 0x2628b7fb337f11d3e213a77c7c937e82263bb350754b19160b09bbbc5d237336
+
+2) Flash Challanges
+
+    N/A
+
+3) Router Connext Quests
+
+    N/A
