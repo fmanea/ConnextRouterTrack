@@ -93,13 +93,29 @@ The basic info is presented in the blog but it may be improved, You should revie
 
 Github for PR https://github.com/connext/documentation
 
+## Flash Challenge 3 - Propose a custody integration to improve the process for managing keys/liquidity
+
+We are looking for the mechanisms to improve the process for managing keys/liquidity and make it more robust with minimum efforts right now (using a 3rd party custody solution as the recipient of the router liquidity)
+
+Your proposal should include
+- description of custody integration
+- which projects are already use it?
+- how it can improve the current process
+- instruction/your experience how to set up it and use for managing keys/liquidity
 
 # Router Connext Quests 
 
 These Challanges are more complex and are not time based. They require approval for starting working on it. How does it work? 
-1. Submit a proposal on this repository, in the "proposals" directory (Check Router Track Proposal Guide above)  
-2. Talk with the Track Leaders/Team and get approval for starting the work on this challange;
-3. The Track Leaders will move the approved proposals into the "approved_proposals" folder where the progress will be tracked;
+1. Submit a proposal on this repository, in the "proposals" directory (Check Router Track Proposal Guide above). Propassal should include
+- Name of the challenge/quest you are applying for
+- Briefly describe your project
+- Detailed project proposal 
+- Project roadmap and milestones
+- KPIs (how can we measure the success of your project?)
+- Your professional background
+- Have you already worked on similar projects?
+3. Open a private thread in router-track discord channel and get approval for starting the work on this challange;
+4. The Track Leaders will move the approved proposals into the "approved_proposals" folder where the progress will be tracked;
 
 ## Quest 1 - Build Tools (10-500 points)
 
