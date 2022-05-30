@@ -73,6 +73,7 @@ Kovan	:	0x35f5180e4e4220114ebf7157184cc7c76b1e7d620c4b7c3ea8016a9a54324480
 
 Test bridge:
 Rinkeby, Kovan  Completed
+
 Rinkeby	to Kovan    :	0x3eb099d6a11ac793f6bff04639ec6215827e2fed3e8a6939e0d76795490a3996
 
 Rinkeby	to Gorli    :   0x665d182d1b8226fd55b454b63d971a53f70dcfd7e0686d0a00da7828aea4e5f1
