@@ -25,7 +25,6 @@ My first time run node , I am interested in connext and axelar after I've met Ar
 ## 2.Choose the activity which you intend to work on over the course of the program
 - I would like to do router installation/configuration/improvement.
 - I will help a beginners to can run routers by themselves, support them about technically problem.
-- I will
 
 ## 3.Answer questions and help others to run router in this Discord channel
 - my share step & Answer questions in discord connext
