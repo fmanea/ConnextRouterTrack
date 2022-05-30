@@ -22,6 +22,6 @@ Test bridge:
 
   2.Choose the activity which you intend to work on over the course of the program
 
-- I will build the tool for new member to easy to running a router and create video tutorial for using the tool and help others to solve technical problems.
+- I will build the tool for new member to easy to running a router and create video tutorial for using the tool and help others to solve technical problems I will advantage your project.
 
   3.Answer questions and help others to run router in this Discord channel - https://discord.com/channels/454734546869551114/864880447163334666/980418639570300981
