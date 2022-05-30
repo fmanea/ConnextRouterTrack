@@ -4,6 +4,7 @@
 
 ## 1.Spinning up a router on the testnet
 My router address is: 0x2fF05fb6893e0E18C8974ED8Ff30a4dC2117562B
+
 URL: https://testnet.amarok.connextscan.io/router/0x2fF05fb6893e0E18C8974ED8Ff30a4dC2117562B
 
 Add liquidity: Rinkeby, Completed  Gorli Not Completed
@@ -11,7 +12,9 @@ Kovan is show success but not have tx
 
 Added liquidity:
 Rinkeby	:	0xef632caecd03e1caa83f4695a90ecabe151c992c6c795b8899a2f43ba774bd9a
+
 Gorli	:	-
+
 Kovan	:	-
 
 Test bridge: Rinkeby, Kovan  Completed  Gorli Not Completed wait for whitelist
@@ -71,10 +74,15 @@ Kovan	:	0x35f5180e4e4220114ebf7157184cc7c76b1e7d620c4b7c3ea8016a9a54324480
 Test bridge:
 Rinkeby, Kovan  Completed
 Rinkeby	to Kovan    :	0x3eb099d6a11ac793f6bff04639ec6215827e2fed3e8a6939e0d76795490a3996
+
 Rinkeby	to Gorli    :   0x665d182d1b8226fd55b454b63d971a53f70dcfd7e0686d0a00da7828aea4e5f1
+
 Gorli	to Rinkeby  :	0x12024d71dd439e50d30ff9ea2adb45552cd4b61df909f3d80f38ce2ff55512a9
+
 Gorli	to Kovan    :	0xbf1788db78f461ae3f5cc8fecb5bd94c8ff2035b338d4c1cd67cb93a22538e31
+
 Kovan	to Rinkeby  :	0xf27148b4e24b2264cd252961af2f77005c1ed8136dc6b38d8cf7d26313d1bbc8
+
 Kovan	to Gorli    :	0xbd352ac72ef0cd8e356d9e42d58b27c4214b767c01fe36cde9b28ec1fea81ebf	
 
 ## 2) Flash Challanges (10-100 points)
