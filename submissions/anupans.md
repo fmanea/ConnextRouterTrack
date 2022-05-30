@@ -32,3 +32,20 @@
 3) Answer questions and help others to run router in this Discord channel (1-10 points)
 
     not yet lol . I'm newbies here
+
+
+## Router Track Mission 2 (16.05-23.05)
+2. Guides and your experience articles about running router in socials (medium etc.) in any language
+
+    Here's the link to my router setup tutorial in thai language 
+    https://medium.com/@AnupanMax25340/connext-router-setup-th-version-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2-dd8caf17eeb9
+    
+3. Answer questions and help others to run router in this Discord channel (1-10 points)
+    Here/s the link that I provided an information about UI bugs in Thai Router Threads
+    https://discord.com/channels/454734546869551114/974586645418475530/978662174853562459
+  
+ ## Router Track Mission 3 (23.05-30.05)
+ 1. Testnet Upgrade - Add liquidity to the new contract (10-30 points)
+     Kovan Liquidity Added : https://kovan.etherscan.io/tx/0xc0c02d67d47cd69308feab0963aaec57eac038b1e3e2901a9350ce72d10c1f7a
+     Rinkeby Liquidity Added : https://rinkeby.etherscan.io/tx/0xe00e01462b80d11f3204858909cc108a36629cafc6d7410dc14dd2eb3e7640ae
+     Goerli Liquidity Added : https://goerli.etherscan.io/tx/0xa3d46b0e4d15eb35dbe4741576591967067fdcbac52d078700f1c21a1f60d941
