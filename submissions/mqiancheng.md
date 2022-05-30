@@ -17,4 +17,10 @@
 
 2) Answer questions and help others to run router in this Discord channel
 
-  
+
+# Router Track Mission 2
+
+1) I wrote a Chinese router guide
+https://mirror.xyz/dashboard/edit/HEr5GHK307i9K5ZFuK-3o1W2scSR4d2Hqm6wiEeaA8M
+
+2) Answer questions and help others to run router in this Discord channel
