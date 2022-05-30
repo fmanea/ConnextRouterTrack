@@ -57,10 +57,13 @@ I will try my best to support Connext with my most abilities and help the commun
 ## Router Track Mission 3 (23.05-30.05)
 
 1. Testnet Upgrade (10-30 points)
-    - Added liquidity  20,000,000 $TEST on Rinkeby, Goeli, and Kovan after Testnet upgrade:
+    - Added a total liquidity of around 200,000,000,000 $TEST on Rinkeby, Goeli, and Kovan after Testnet upgrade:
         Transaction Hashes:
         - 0x58a533996e8e9c75679c29c7ffb989dde3eab95cbb69556746e841bacac4863a (Rinkeby)
         - 0x2b04e8646be275b61467d6bf4f14205a7e6ac099b63a59259b114c533fd8155d (Rinkeby)
+        - [0x50a754a47110e432311dc0f569226b470c62a32b8ff95679316f926ff8c161e3](https://rinkeby.etherscan.io/tx/0x50a754a47110e432311dc0f569226b470c62a32b8ff95679316f926ff8c161e3) (Rinkeby)
+        - [0x1a6e7fa8dd0c876dc6c3d04357536139fb22c160059c610892eba69b698e92fd](https://goerli.etherscan.io/tx/0x1a6e7fa8dd0c876dc6c3d04357536139fb22c160059c610892eba69b698e92fd) (Goeli)
+        - [0x4b6b787ad9f6e686361e13c2a97f6fc9170db22a95bfe8eb6eba8c354755b7bd](https://kovan.etherscan.io/tx/0x4b6b787ad9f6e686361e13c2a97f6fc9170db22a95bfe8eb6eba8c354755b7bd) (Kovan)
 
 3. Flash Challanges (10-100 points)
     - Flash Challenge 1 - Explore all guides, and gather them in one place in Docs

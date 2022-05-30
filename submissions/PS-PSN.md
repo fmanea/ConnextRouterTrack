@@ -1,44 +1,38 @@
 # Discord Handle: PS | ContributionDAO#7908
 
-## Router Track Mission Week 1
+## Router Track Mission 1 (09.05-16.05)
 
-1) Spinning up a router on the testnet
+1) Spinning up a router on the testnet (10-30 points that depends on feedback /improvements proposals)
 
-- Router address is: 0x5C3343A64FF3dF33794bceFC73D634593Cd3750C
-https://testnet.amarok.connextscan.io/router/0x5C3343A64FF3dF33794bceFC73D634593Cd3750C
-- Added Liquidity on Rinkeby, Kovan, Complete.
-- Addes Liquidity on gorli error : (cannot estimate gas; transaction may fail or may require manual gas limit [ See: https://links.ethers.org/v5-errors-UNPREDICTABLE_GAS_LIMIT ] (error={"code":-32603,"message":"execution reverted","data":{"originalError":{"code":3,"data":"0x237c7bef","message":"execution reverted"}}}, method="estimateGas", transaction={"from":"0x3BC7d7a271B5C3167Ecbc43D66053886fFaFfa01","to":"0xDc495507b830E5D1d8C073D4B12D144e76100816","value":{"type":"BigNumber","hex":"0x00"},"data":"0xe070da0900000000000000000000000000000000000000000000003635c9adc5dea00000000000000000000000000000d426e23a6a9524101cdc017e01ddc3262b7aa65d0000000000000000000000005c3343a64ff3df33794bcefc73d634593cd3750c","accessList":null}, code=UNPREDICTABLE_GAS_LIMIT, version=providers/5.6.4))
+- Router address is: 0x8895081599f0beA02906FF65C2cC79FF12B6039e
+- Added Liquidity on Rinkeby : wait... 
+- Added Liquidity on Kovan : wait...
+- Addes Liquidity on gorli : wait...
 
 - Test Bridge 
-Gorli -> Rinkeby Complete
+Gorli -> Kovan
+Transfer ID : 0x066cbd86f10262caf11d5e0dbe757356c6996e3e3249b8f7eb94f4e985068e4a
 
-Transaction Hash : 0xa84110555e89de023a0072e75b58851ebaae9c20b38d3f7b47bf42049fc41707
+Gorli -> Rinkeby
+Transfer ID : 0x8ff551d82446a2c803fced3aa9d6679827d4f83e2b405bfb37fb3d2e9e30811e
 
-Gorli -> Kovan Complete
+Rinkeby -> Kovan
+Transfer ID : 0x7f523188d9928deaf8c7d4347084f7fdcb1dad99bc271c132416e67b8c6f3ac5
 
-Transaction Hash : 0x0081c2a5d923765b72d940102eb2fbd0a2474097a3c6377ef731bda96fed5ae5
+Rinkeby -> Gorli
+Transfer ID : 0x6fe42951ce3e3c698500dbd8ddb7cfc57206da93c5beb5d39d593780490ac314
 
-Rinkeby -> Gorli ** Have long time
+Kovan -> Gorli
+Transfer ID : 0xcb122ac49328cf6adfc58eca07bd2f7ddbb63b570f40a888601a7e8a4d46ba8b
 
-Transaction Hash : 0xd2c4291874a2fe1d798c418afd6553c3f1e1760eccd0a76776542c665e4e7b1b
-
-Rinkeby -> Kovan Complete
-
-Transaction Hash : 0x54bfee582ef3152cb62b071734540aaef8195ee5650bdea034e525096ca35390
-
-Kovan -> Rinkeby Complete
-
-Transaction Hash : 0xb602164d1f27496856843eff1a832f5297373ecb2246016591aa423e02ef3c84
-
-Kovan -> Gorli ** Have long time
-
-Transaction Hash : 0x417baffa39976d6f15416746a463d261b658ea6d736628f2c256e9dd38993117
+Kovan -> Rinkeby
+Transfer ID : 0xc61ee7a239df02a0efb23a3ddbbef14690d43338c8252a6c99a7aec0b12d9851
 
 Ps. Upon installation I encountered some issues in the incomplete manual.
 System usage There are some parts where Liquidity cannot be added to the pool
 and some chain bridges take too long.
 
-2) Choose the activity which you intend to work on over the course of the program.
+2) Choose the activity which you intend to work on over the course of the program (5 points)
 - I want to create manual, documentation, code review and scripts for router installation to support new users and easy to upgrade.
 
 3) Answer questions and help others to run router in this Discord channel (1-10 points)
@@ -46,3 +40,29 @@ and some chain bridges take too long.
   https://github.com/PS-PSN/Connext/blob/main/Setup%20Routers%20(Thai)
 
 - https://discordapp.com/channels/454734546869551114/974586645418475530/974589296814206986
+
+
+## Router Track Mission 2 (16.05-23.05)
+
+1) Video guide with a step-by-step running router in any language (5-100 points)
+- https://www.youtube.com/watch?v=JEuG2fsoHxU
+
+2) Guides and your experience articles about running router in socials (medium etc.) in any language (5-50 points)
+- 
+
+3) Answer questions and help others to run router in this Discord channel (1-10 points)
+- 
+
+4) Feedback/improvement proposals/building high impact tools (5-500 points)
+- use in different parts still having problems. The team is constantly improving.
+
+## Router Track Mission 3 (23.05-30.05)
+
+1) Testnet Upgrade - Add liquidity to the new contract (10-30 points)
+- 
+
+2) Flash Challanges (10-100 points)
+- 
+
+3) Router Connext Quests (10-500 points)
+- 
