@@ -39,3 +39,21 @@
 1) Guides and your experience articles about running router in socials (medium etc.) in any language (5-50 points)
 
     https://medium.com/alphaturing/spinning-up-connext-router-testnet-c6bad558ae94
+
+## Router Track Mission 3 (23.05-30.05)
+
+1) Testnet Upgrade - Add liquidity to the new contract (10-30 points)
+
+    I have update my router and added liquidity to the new contract:
+    
+    Some Txs on Rinkeby:    
+
+    - 0xb25234fb28c7ed364adc251a58ba27eeb92c9fa1ca781924cdae52b58f68db68
+        
+    Some Txs on Goerli:
+
+    - 0xce706cc9031a7169efe75d513124982ae431b5a5d4cc18acfba6ea75605af5b7
+
+    Some Txs on Kovan:    
+
+    - 0x94410928fa7078cbb2b65d9f49ad151bbc6a6796446365eec49adb24f35e0c3d 
