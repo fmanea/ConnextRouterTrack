@@ -77,6 +77,34 @@
     - i have a suggestion try to incorporate FLASHBOTS to our CONNEXT, 
     - we need to democratize any MEV opportunity in the future,
     - instead of us coming up with something on our own, i think it would be better to include them
+
+## Router Track Mission 3 (23.05-30.05)
+
+1) Testnet Upgrade - Add liquidity to the new contract (10-30 points)
+   
+    - Router address is: 0x36802f05ea23968dbd5010084da25104a88fb6d0
+    - https://testnet.amarok.connextscan.io/router/0x36802f05ea23968dbd5010084da25104a88fb6d0
+
+    - Added liquidity for Asset(0x3FFc03F05D1869f493c7dbf913E636C6280e0ff9) on Rinkeby
+    
+    - Added liquidity for Asset(0x3FFc03F05D1869f493c7dbf913E636C6280e0ff9) on Görli
+
+    - Added liquidity for Asset(0x3FFc03F05D1869f493c7dbf913E636C6280e0ff9) Kovan
+
+    - Tested the bridge
+
+    - Some of Transaction Hashes:    
+        - 0xa2b7f818471c71b11773b878d2b8374dde478ed8693263df25bed39aaa2ebbff
+        - 0xa2b7f818471c71b11773b878d2b8374dde478ed8693263df25bed39aaa2ebbff
+        - 0xa19429421dfcad5125ce4c84cfce84b3b719bab8ea44fd46da0ee5fc0f82a46c
+        - 0xfbcf199c2dc00b6d0287d90a863f50998908b50f61791c1db662b0fa858a3e32
+        - 0xecc998b58553a6ea07775b82fcaf7687e1f43c224a4b8f74c34d97a7190fe876
+        - 0x81b285cdf26dc01c83ffa4d7d7d67614223029e7e5808df44f4d074d2f13f13b
+
+        
+    
+
+
       
         
     
