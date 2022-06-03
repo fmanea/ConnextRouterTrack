@@ -6,7 +6,7 @@
 My router address is: 0x53557a82A1Ea82eA1C61987c0Ab627C03893F329
 URL : https://testnet.amarok.connextscan.io/router/0x53557a82A1Ea82eA1C61987c0Ab627C03893F329
 
-Feedback : Should have link for each testnet faucet.
+Feedback : Should have link for each testnet faucet
 
 Added liquidity:
 -Rinkeby - https://rinkeby.etherscan.io/tx/0xee2fec72036cb662c5167c53ed22248522e05b3743f184b032f7e8f3732b8029
