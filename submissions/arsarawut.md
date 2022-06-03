@@ -43,5 +43,23 @@
  3. Answer questions and help others to run router in this Discord channel 
      https://discord.com/channels/454734546869551114/966239886829060096/976705092671668284
      https://discord.com/channels/454734546869551114/966239886829060096/976715544025763870
+     
+     
+## Router Track Mission 3 (23.05-30.05)
 
+1) Testnet Upgrade - Add liquidity to the new contract (10-30 points)
+
+   - Added 500 $TEST on rinkeby:
+       - https://rinkeby.etherscan.io/tx/0x30a6468a8e54d4262be57d2f411a05686a666fd704b7f73f672aff1c9b659dfc
+
+   - Added 500 $TEST on kovan:
+      - https://kovan.etherscan.io/tx/0x7e1273925b016b5d656f2c8a16fb535af54ddf2ba596a4cd285e97a7c3118a66
+
+   - Added 500 $TEST on goerli:
+      - https://goerli.etherscan.io/tx/0x37e8aeddbceb88c636f480263c898e2449df8cbfeb8fb17c0fc8b181f898d5af
+
+
+2) Flash Challanges (10-100 points)
+
+3) Router Connext Quests (10-500 points)
 

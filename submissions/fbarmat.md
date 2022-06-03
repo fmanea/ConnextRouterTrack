@@ -1,4 +1,4 @@
-# Discord User: fvillano#4598
+# Discord Handle: fvillano#4598
 
 # Router Track 
 
@@ -32,3 +32,20 @@
 
 4) Questions/Doubts:
 	What happend if in the router config.json the asset address is bad configured?, for example with an other address?
+
+
+## Router Track (23.05-30.05)
+
+1) Testing the new contracts and release beta.8
+	Router Address: 0xf82521001ebf85699c752970575cee449651b06d
+		URL: https://testnet.amarok.connextscan.io/router/0xf82521001ebf85699c752970575cee449651b06d
+
+
+2) Testing the bridge
+		Some Transfers Hash:
+		- 0x3afdc2ec4807cadf51d3a555fbc1e6f70d9ebdaddf77bed1f598ac1681f7b1c7
+		- 0xad652ba3eda71c84c95e7157ec06e39b782814a071d3b34f768d3e4a23333f96
+		- 0xfd556b6d402d9afa91a58075e401e1651c77fc1d8e3ae9cedf6ad2c40c578859
+		- 0xb7354085bc72b3d7dc14046bb5387eadd6219551e97b09e78753914c317e036b 
+
+3) 	- I've made a guide in Notion but this time in spanish https://dramatic-fox-ea1.notion.site/Configurar-un-Router-de-Connext-895537bf84164756af12e55aba1138b0

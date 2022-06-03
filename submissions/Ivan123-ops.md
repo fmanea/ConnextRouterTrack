@@ -56,3 +56,27 @@ https://7nda.medium.com/запуск-роутера-connext-d6335e7e962e
  4. Feedback/improvement proposals/building high impact tools 
        Everything is good so far. I wish you update router page to improve the design and make a faucet button on a router page. 
        Also waiting for Goerli to work. And maybe a leaderboard of routers to see how other routers do? 
+
+## Router Track Mission 3 (23.05-30.05)
+
+Testnet Upgrade - Add liquidity to the new contract (10-30 points)
+Successfully upgraded and added liquidity. 
+
+Rinkeby:
+https://rinkeby.etherscan.io/tx/0x7fdace600529593e6f57cd8a4e5501fbed2c7fc155fbd15d0d8a795693b14c59
+https://rinkeby.etherscan.io/tx/0xeef3bb1fbca8ee8ffb62fd088ac2dfe7f6f39c237d7a426d946078a46ea8f496
+
+Goerli:
+https://goerli.etherscan.io/tx/0x6e52ebe476e3ea7b996e74e233b76543cdc27da77a601432ff6a51c3ecd6d813
+https://goerli.etherscan.io/tx/0xe0f290114dcd8002893f12769a320edbf8de10fa36fcaba89a1de7e8eaaa89e8
+
+Kovan:
+https://kovan.etherscan.io/tx/0x7a5d40f6afef2e26a396aba686eb0eb29bc93788b899ec4712f767dbe542317f
+https://kovan.etherscan.io/tx/0x45bc4ef856107f7a80539f9aa2db455d765fb0db9616d4c31388aa32245ab28b
+
+
+Answer questions and help others to run router in this Discord channel 
+
+https://discord.com/channels/454734546869551114/966239886829060096/979599905796526121
+https://discord.com/channels/454734546869551114/966239886829060096/979467803511898153
+

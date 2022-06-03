@@ -22,3 +22,41 @@
 3) Answer questions and help others to run router in this Discord channel (1-10 points)
 
     Not yet 
+
+# Router Track Mission Week 2 (16.05-23.05)
+
+1.Video guide with a step-by-step running router in any language
+
+2.Guides and your experience articles about running router in socials (medium etc.) in any language
+
+3.Answer questions and help others to run router in this Discord channel
+
+4.Feedback/improvement proposals/building high impact tools
+
+
+# Router Track Mission 3 (23.05-30.05)
+
+1.Testnet Upgrade - Add liquidity to the new contract
+
+   - Added liquidity Rinkeby: 
+
+      Some of Transaction Hashes:  
+       - 0x63a0030117ae5169a98732116a55bc0617996919dea546a97b081e8c56e4bd1a
+       - 0x8aa401a23d62ecb113dff730051cce99bbb94cd379279aa9ab8421cd4219af80
+        
+  - Added liquidity Kovan: 
+
+      Some of Transaction Hashes:
+      - 0xa73db0e9c4a9f3467934551b06d471b684f2e7d03b2cd7cf719ea14012a67d06
+      - 0x4f0b5ff0546d7adc828df6ff18f94cfda4fabfd3cffc3659dff529b0fee5dc42
+        
+  - Added liquidity Goerli: 
+
+      Some of Transaction Hashes: 
+      - 0x4a5f0566b6c85e9889e59a9224392a61c4ce2746553c3baa8e9bf6355196e0fe
+      - 0xaf500df7ee950ddeb0adf20d4014075ab9200465c8abebde0db48a4cc42ef4a3
+      
+
+2.Flash Challanges
+
+3.Router Connext Quests
