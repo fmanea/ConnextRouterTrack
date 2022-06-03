@@ -41,3 +41,6 @@
 ## Router Track Mission 3 (23.05-30.05)
 
 1) Testnet Upgrade - Add liquidity to the new contract (10-30 points)
+  - [add liquidity on kovan](https://kovan.etherscan.io/tx/0x3dcad4190df1f2f3efd42198d346a310938aff7af19d4dabc5a4fab0a37a112b)
+  - [add liquidity on Rinkeby](https://rinkeby.etherscan.io/tx/0x9b3eaf82bfc76a37b06393fa9186372f675eb637d3bcced87e5b101aca5f0bc9)
+  - [add liquidity on Goerli](https://goerli.etherscan.io/tx/0x3bef548e8e5a70cd05baad0dc783df9251ffe1603c17dc283b6d47e9167635bb)
