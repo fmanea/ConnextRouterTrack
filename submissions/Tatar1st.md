@@ -1,9 +1,9 @@
-## Discord Handle: 
+## Discord Handle: tarassik#9250
 # Router Track Mission 1 (09.05-16.05)
 
 1) Spinning up a router on the testnet
 
-    - My Router address is: 
+    - My Router address is: 0x805ac6BF62B8a5d515042c5C1D5E277A360B93b0
 
 2) Choose the activity which you intend to work on over the course of the program
 
