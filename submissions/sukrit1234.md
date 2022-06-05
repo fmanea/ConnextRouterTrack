@@ -10,8 +10,10 @@
    - Kovan with 10000 TEST
 - Test Bridge Complete.
     Rinkeby => Gorli : https://testnet.amarok.connextscan.io/tx/0x35761c54c4000011926093c90f2d1eae1f0d75026f687839941358c8a069f339
-
-
+    Koven => Rinkeby : https://testnet.amarok.connextscan.io/tx/0x25c9526cdf09c429a5cbe4cb52041592d4343f514996cfa37c6ea00029cf06dc
+    Gorli => Kovan :  https://testnet.amarok.connextscan.io/tx/0x0f562f4859fadee72bc698235975c18c9087f51e60e03402364eff2e9efec8fc
+    
+    
 2) Choose the activity which you intend to work on over the course of the program
     Make a guid from anyone can go after this to setup node.
 
