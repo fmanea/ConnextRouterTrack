@@ -28,11 +28,9 @@
 - Guide Setup Node: 
 
 3) Answer questions and help others to run router in this Discord channel
-- 
-
+   -
 4) Feedback/improvement proposals/building high impact tools
-- Feedback/improvement proposals: 
-
+   -
 
 
 ## Router Track Mission 3 (23.05-30.05)
