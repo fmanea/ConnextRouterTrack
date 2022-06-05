@@ -13,7 +13,7 @@
 
 
 2) Choose the activity which you intend to work on over the course of the program
- 
+    Make a guid from anyone can go after this to setup node.
 
 3) Answer questions and help others to run router in this Discord channel (1-10 points)
 
