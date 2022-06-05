@@ -5,9 +5,9 @@
 1) Spinning up a router on the testnet (10-30 points that depends on feedback /improvements proposals)
 
 - Router address is: 0x8895081599f0beA02906FF65C2cC79FF12B6039e
-- Added Liquidity on Rinkeby : Transaction Hash : 0x7459e3c6d8fc5a93316769d946018c31e40ebd7e2dde18d5fa9166ab3f828bee 
-- Added Liquidity on Kovan : Transaction Hash : 0x40b749ed9df7605cb4651cb007d1c40d53a4d7041139f4610f8ab3b9ddbc3bf7
-- Addes Liquidity on gorli : Transaction Hash : 0xa0ae756e5c41646b9f5590060d32a97667f155d3f135aa5f77c378c2b7b2806d
+- Added Liquidity on Rinkeby : wait... 
+- Added Liquidity on Kovan : wait...
+- Addes Liquidity on gorli : wait...
 
 - Test Bridge 
 Gorli -> Kovan
@@ -59,11 +59,7 @@ and some chain bridges take too long.
 ## Router Track Mission 3 (23.05-30.05)
 
 1) Testnet Upgrade - Add liquidity to the new contract (10-30 points)
-
-- Router address is: 0x8895081599f0beA02906FF65C2cC79FF12B6039e
-- Added Liquidity on Rinkeby : Transaction Hash : 0x7459e3c6d8fc5a93316769d946018c31e40ebd7e2dde18d5fa9166ab3f828bee 
-- Added Liquidity on Kovan : Transaction Hash : 0x40b749ed9df7605cb4651cb007d1c40d53a4d7041139f4610f8ab3b9ddbc3bf7
-- Addes Liquidity on gorli : Transaction Hash : 0xa0ae756e5c41646b9f5590060d32a97667f155d3f135aa5f77c378c2b7b2806d
+- 
 
 2) Flash Challanges (10-100 points)
 - 

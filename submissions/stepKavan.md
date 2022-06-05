@@ -28,37 +28,4 @@
     
 3) Answer questions and help others to run router in this Discord channel (1-10 points)
 
- ## Router Track Mission 2 (16.05-23.05)
-
-1) Video guide with a step-by-step running router in any language (5-100 points)
-
-2) Guides and your experience articles about running router in socials (medium etc.) in any language (5-50 points)
-
-3) Answer questions and help others to run router in this Discord channel (1-10 points)
-
-4) Feedback/improvement proposals/building high impact tools (5-500 points)
-
-
-## Router Track Mission 3 (23.05-30.05)
-
-1) Testnet Upgrade - Add liquidity to the new contract (10-30 points)
-
-    - Added liquidity Goerli: 
-
-        Transaction Hash:    
-        - 0x592b316cd07840de9a760b3952eeacad6ccb62d5923021c1f091a5accf773bcb
-    - Added liquidity Rinkeby: 
-
-        Transaction Hash:    
-        - 0x85895e0971049df4fe65d1c310c1d34417608c55b8ff4a111469e1840e48fd7e
-        
-     - Added liquidity Kovan: 
-
-        Transaction Hash:    
-        - 0xc6f4ec7438b09a7984a72e01d5df07f5596070b4570a45909c7974e4dc5abfe4      
-
-
-2) Flash Challanges (10-100 points)
-
-
-3) Router Connext Quests (10-500 points)   
+    
