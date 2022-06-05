@@ -27,7 +27,9 @@ Bridge test 3 chains: completed
 I’d write an articles and make a videos, especially in the router area, in simplest way. Including guideline of setting up and how to do several tasks in the test net
 
 
-	Router track mission 2
+	
+    
+    Router track mission 2
 
 2.Guides and your experience articles about running router in socials (medium etc.) in any language
 
@@ -43,7 +45,9 @@ https://discord.com/channels/454734546869551114/974586645418475530/9826089797315
 	Feedback: In order to make a video as a work, might reduce participants who want to participate but they’ve not had those resources. 
 	Improvement proposal: writing articles and sharing knowledge, supportive in discord should be getting more attention in order to accumulate the point in the campaign. Real-time helping people in discord helps a lot for common users and also encourage them to dive deeper in the protocol with having a mentor.
 
-	Router track mission 3
+	
+    
+    Router track mission 3
 
 1.Testnet Upgrade - Add liquidity to the new contract: completed
 
