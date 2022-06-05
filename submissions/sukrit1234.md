@@ -1,5 +1,7 @@
 # Discord Handle: sukrit1234 | sukrit1234#8494
 
+## Router Track Mission 1 (09.05-16.05)
+
 1) Spinning up a router on the testnet
 - My router address is: https://testnet.amarok.connextscan.io/router/0x0655DafC4Dd5abAe6dD063E4F35527d835838159
 - Added liquidity 
@@ -17,6 +19,19 @@
 
 
 
+## Router Track Mission Week 2 (16.05-23.05)
+
+1) Video guide with a step-by-step running router in any language
+- Video guide connext node url: 
+
+2) Guides and your experience articles about running router in socials (medium etc.) in any language
+- Guide Setup Node: 
+
+3) Answer questions and help others to run router in this Discord channel
+- 
+
+4) Feedback/improvement proposals/building high impact tools
+- Feedback/improvement proposals: 
 
 
 
