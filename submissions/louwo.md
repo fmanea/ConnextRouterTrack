@@ -26,3 +26,30 @@
 
       -  https://github.com/louwo/Guide-for-routers
          >Step by step guide for spin up the router
+
+# Router Track Mission 2 (16.05-23.05)
+
+1) Video guide with a step-by-step running router in any language (5-100 points)
+
+
+2) Guides and your experience articles about running router in socials (medium etc.) in any language (5-50 points)
+
+
+3) Answer questions and help others to run router in this Discord channel (1-10 points)
+
+
+4) Feedback/improvement proposals/building high impact tools (5-500 points)
+
+
+# Router Track Mission 3 (23.05-30.05)
+
+1) Testnet Upgrade - Add liquidity to the new contract (10-30 points)
+
+   - Added liquidity on kovan: 0xad2b89ea837ca605fb93cc5a242a613bdeae17f946c70259e9960cc46a640bd1
+   - Added liquidity on Rinkeby: 0xc7e2a99c3bb1bf5293825728a2f9dd98b320c613d9498095f8a22d5353fd1f78
+   - Added liquidity on Goerli: No one on discord didn't helped solve the error
+
+
+2) Flash Challanges (10-100 points)
+
+3) Router Connext Quests (10-500 points)

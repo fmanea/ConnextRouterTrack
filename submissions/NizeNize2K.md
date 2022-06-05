@@ -80,3 +80,24 @@ https://medium.com/@nizeimbaboy.2/how-to-run-node-connext-node-v-%E0%B8%A0%E0%B8
 3. I need alret if container log type Error to discord webhook , logdna 
 
 
+
+
+# Router Track Mission 3 (23.05-30.05)
+
+## 1.Testnet Upgrade - Add liquidity to the new contract 
+
+Add liquidity to the new contract : 
+Rinkeby,Kovan,Görli  Completed
+
+Added liquidity:
+- Rinkeby TX HASH: https://rinkeby.etherscan.io/tx/0x8f3a792efc74b97d47f1e1823e12f0b6b68899b1e4a185bf1f2ebd6458eb450f
+- Görli TX HASH : https://goerli.etherscan.io/tx/0x4e30ea0699edb9a377d63d9cec7439ec0fbc695a1ef11fb602c4bb2bb17d83c5
+- Kovan TX HASH: https://kovan.etherscan.io/tx/0x0b42133a58c31555a1471828303f45cea2584b05cb49f5b23e1632a401c306e1
+
+
+## 2.Flash Challanges
+Flash Challenge 2 - Complete the routers documentation intro
+Commit URL: https://github.com/connext/documentation/pull/36
+
+## 3.Router Connext Quests
+N/A

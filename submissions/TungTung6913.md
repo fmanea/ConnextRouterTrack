@@ -72,9 +72,13 @@ Kovan
 - Add loquidity to New Contract v0.2.0-beta.8
 + Cannot add lquidity in this contract. Might be some error
 
-2. Flash Challanges
+2. Flash Challanges#1
 - Add the guide on this https://docs.connext.network/routers/guides/
 URL :  https://github.com/connext/documentation/pull/37
+
+Flash Challenges#2
+- Create Introduction to Connext Router to be used in "Error page"
+URL : https://github.com/connext/documentation/pull/40 
 
 Looking forward to update more of it
 
