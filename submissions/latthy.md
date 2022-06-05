@@ -42,6 +42,7 @@ I’ve been sticking around to support several questions which are in my underst
 https://discord.com/channels/454734546869551114/974586645418475530/982608979731550258
 
 
+
 	Feedback: In order to make a video as a work, might reduce participants who want to participate but they’ve not had those resources. 
 	Improvement proposal: writing articles and sharing knowledge, supportive in discord should be getting more attention in order to accumulate the point in the campaign. Real-time helping people in discord helps a lot for common users and also encourage them to dive deeper in the protocol with having a mentor.
 
