@@ -27,7 +27,7 @@
 2) Guides and your experience articles about running router in socials (medium etc.) in any language
 - Guide Setup Node: 
 
-3) Answer questions and help others to run router in this Discord channel
+3) Answer questions and help others to run router in this Discord channel (1-10 points)
    -
 4) Feedback/improvement proposals/building high impact tools
    -
