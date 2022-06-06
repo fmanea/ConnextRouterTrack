@@ -25,7 +25,8 @@ Rinkeby, Kovan  Completed
 
 
 ## 2.Choose the activity which you intend to work on over the course of the program
-- I want to help test run node of system 
+- I want to help test run node of system and 
+I am ready to help and support this project. 
 
 ## 3.Answer questions and help others to run router in this Discord channel
 
