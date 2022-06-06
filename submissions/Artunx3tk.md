@@ -42,6 +42,13 @@ https://discord.com/channels/454734546869551114/974586645418475530/9804788658163
 
 ## 1. Video guide with a step-by-step running router in any language
 ## 2. Guides and your experience articles about running router in socials (medium etc.) in any language
+- Step by step Run Node Connext for beginner (thai) 
+https://medium.com/@artunx3tk/step-by-step-connext-node-for-beginner-97076c7f8b3a
+- How to Setup Droplets for Node Connext (thai)
+https://medium.com/@artunx3tk/how-to-setup-node-connext-for-beginner-thai-c0691c8a7834
+- How to monitor node connext using Grafana (th)
+https://medium.com/@artunx3tk/how-to-monitor-node-connext-using-grafana-th-e02560317d15
+
 ## 3. Answer questions and help others to run router in this Discord channel
 - my share step & Answer questions in discord connext
 https://discord.com/channels/454734546869551114/966239886829060096/980336301310103643
@@ -88,6 +95,9 @@ Kovan	to Gorli    :	0xbd352ac72ef0cd8e356d9e42d58b27c4214b767c01fe36cde9b28ec1fe
 
 ## 2) Flash Challanges (10-100 points)
 ## 3) Router Connext Quests (10-500 points)
+
+
+
 
 
 update:30.05.2022 / time 18:00
