@@ -57,5 +57,5 @@ https://discord.com/channels/454734546869551114/974586645418475530/9790499984969
 Update version router to sha-0039612
 
 6-Jun-22 02:50 UTC Time.
-This process is success. waiting for transfer.
+This process is success.
 
