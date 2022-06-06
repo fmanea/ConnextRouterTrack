@@ -42,3 +42,17 @@ I have help review and comment step run router in discord group
     https://discord.com/channels/935567548588654612/935575419187527782/978564923699392552
 and i share question after have answer
     https://discord.com/channels/935567548588654612/935575419187527782/978564923699392552
+
+## Router Track Mission 3 (23.05-30.05)
+1) Testnet Upgrade - Add liquidity to the new contract
+- router version: sha-0039612
+- router address: https://testnet.amarok.connextscan.io/router/0x2CFEC890A6C8137846DE8f42b3f50a9AC6a0f2cC
+
+- liquidity on Kovan
+0x166645f2c704f3a0bf2ff3914f4891ffd6acf6b888f5ea2425797e1e2a467bfa
+
+- liquidity on goerli
+0xa6990356c22f048e9a6f2cf710bb9d1ef3cc45e36a39a8ec38788351ff78dba3
+
+- liquidity on rinkeby
+0x166645f2c704f3a0bf2ff3914f4891ffd6acf6b888f5ea2425797e1e2a467bfa
