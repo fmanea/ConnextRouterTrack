@@ -23,3 +23,31 @@ Test bridge:
 3.Answer questions and help others to run router in this Discord channel
         - https://discord.com/channels/454734546869551114/966239886829060096/978863923489042493
 
+
+## Router Track Mission Week 2 (16.05-23.05)
+
+1.Video guide with a step-by-step running router in any language
+
+2.Guides and your experience articles about running router in socials (medium etc.) in any language
+
+3.Answer questions and help others to run router in this Discord channel
+
+4.Feedback/improvement proposals/building high impact tools
+
+
+## Router Track Mission 3 (23.05-30.05)
+
+1.Testnet Upgrade - Add liquidity to the new contract
+        router version: sha-0039612
+        My router address is: 0x44EB04c6314bA2744c4e919279848DD88c9D09F2
+        URL: https://testnet.amarok.connextscan.io/router/0x44EB04c6314bA2744c4e919279848DD88c9D09F2
+
+        Added liquidity:
+        - Rinkeby URL: https://rinkeby.etherscan.io/tx/0x1c5482367fff49c81ff4f5256218db0c4a9cd6e38464ec22a6d944bccb339bc4
+        - Kovan URL: https://kovan.etherscan.io/tx/0x17c86376506b2f2faac9211c4fb5fae14d306c60425b16a56940370ceab9e136
+        - Görli URL: https://goerli.etherscan.io/tx/0x5a1606855e269eec02f028a2ae917b984ebe3ae02905e47e345914a05746da26
+
+2.Flash Challanges
+
+3.Router Connext Quests
+
