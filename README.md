@@ -160,3 +160,36 @@ Our dream is to have different approches to monitor the router metrics and logs.
 
 
 
+## Router Track Mission 4 (08.06-15.06)
+1. How to integrate web3signer with one of the cloud providers instead of using the key.yaml (aws secret manager, gcp secret manager, aws secrets, ansible vault, k8s etc.). 
++ Bonus points for scripts(cloudformation, terraform) 
+2. Best practices for generating and managing ssh-keys
+3. Hardening ssh config
+4. Hardening current docker-compose file
+5. How to create and use bastion instance for accessing routers infr
+
+
+# Router Connext Quests 
+
+## Quest 1 - Integrade web3signer (10-100 points)
+
+How to integrate web3signer with one of the cloud providers instead of using the key.yaml (aws secret manager, gcp secret manager, aws secrets, ansible vault, k8s etc.).
+Bonus points for scripts(cloudformation, terraform, etc.)
+
+## Quest 2 - Best practices for generating and managing ssh-keys (10-30 points)
+
+
+
+## Quest 3 - Hardening ssh config (10-30 points)
+
+
+
+## Quest 4 - Hardening current docker-compose file (10-30 points)
+
+
+## Quest 5 - How to create and use bastion instance for accessing routers infrastructure (10-30 points)
+
+
+
+
+
