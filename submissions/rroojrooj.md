@@ -52,12 +52,7 @@ I will try my best to support Connext with my most abilities and help the commun
         - https://discord.com/channels/454734546869551114/966239886829060096/976672368850268240
         - https://discord.com/channels/454734546869551114/966239886829060096/976672815929503825
         - https://discord.com/channels/454734546869551114/966239886829060096/977002852738277436
-        - https://discord.com/channels/454734546869551114/966239886829060096/978666394285637682
-        - https://discord.com/channels/454734546869551114/966239886829060096/979476829880582214
-        - https://discord.com/channels/454734546869551114/966239886829060096/979754849631600660
-        - https://discord.com/channels/454734546869551114/966239886829060096/980304934006317058
-        - https://discord.com/channels/454734546869551114/966239886829060096/981574498249764874
-        - https://discord.com/channels/454734546869551114/966239886829060096/981588366111940608
+
 
 ## Router Track Mission 3 (23.05-30.05)
 
@@ -73,9 +68,6 @@ I will try my best to support Connext with my most abilities and help the commun
 3. Flash Challanges (10-100 points)
     - Flash Challenge 1 - Explore all guides, and gather them in one place in Docs
         - [Added Guides to the Router Docs](https://github.com/connext/documentation/pull/32)
-        - [Update guides.md](https://github.com/connext/documentation/pull/45)
-    - Flash Challenge 2 - Complete the routers documentation intro
-        - [Added Intro to the Router Docs (waiting for PR)](https://github.com/connext/documentation/pull/38)
 
 5. Router Connext Quests (10-500 points)
 
