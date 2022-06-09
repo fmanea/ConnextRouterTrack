@@ -6,21 +6,21 @@
     - Router address is: 0x48f2e1Cedf0a9D7cC26c7AB2b1b69C643526AED2
       https://testnet.amarok.connextscan.io/router/0x48f2e1Cedf0a9D7cC26c7AB2b1b69C643526AED2
 
-    - Added liquidity to Rinkeby 10,000 TEST token: 
+    - Added liquidity  10,000 on Rinkeby: 
 
         Some of Transaction Hashes:    
         - 0xc6ceeded797408b03c29470610105905325edfbed60b6968a825cb63f25dd004
         - 0x99f010d9a8e0810b48900bc599622a92b74c46daf276df6a10aa24d7b185a88a
         - 0xb0fc3dc9af4e11b0c1a63e60dab069f726c78645d270f3be2d8a6e1e01c7d8df     
 
-    - Added liquidity to Kovan 100,000 TEST token:
+    - Added liquidity on  100,000 Kovan:
 
         Some of Transaction Hashes:   
         - 0x1d15f95bfe9092300592c747fb9138871fec53f4f4383da891cdeb5219e852dc
         - 0xab02a2723295a9fce77d81608862bb2288119bffd0d92c2cd2d4eeac0f225b7c
         - 0xa8411386566924c3dbb82bf465b3c392d6a32cfd9fef295a9117b20c83115286
         
-    - Added liquidity to Goerli 20,000 TEST Token:
+    - Added liquidity on  20,000 Goerli:
 
         Some of Transaction Hashes:     
         - 0xfef0c33968a4e58681f95b5ea5cc91eb6a3635384bd35dc69aa5fa700331a1af
@@ -50,27 +50,3 @@
    
     Here is my some of answer questions :
         https://discord.com/channels/454734546869551114/966239886829060096/976138157525446788
-## Router Track Mission 2 (16.05-23.05)
-
-1. Video guide with a step-by-step running router in any language (5-100 points)
-2. Guides and your experience articles about running router in socials (medium etc.) in any language (5-50 points)
-3. Answer questions and help others to run router in this Discord channel (1-10 points)
-    - https://discord.com/channels/454734546869551114/966239886829060096/979686061972287520
-    - https://discord.com/channels/454734546869551114/966239886829060096/979691832197926942
-    - https://discord.com/channels/454734546869551114/966239886829060096/979994201729159178
-4. Feedback/improvement proposals/building high impact tools (5-500 points)
-    - To help dev do the priority work, discord should have bot to whitelist members address and answer the common technical errors
-    - In the Connext Documentation should have the guide for new member how to get infura api key.
-
-## Router Track Mission 3 (23.05-30.05)
-
-1.  Testnet Upgrade - Add liquidity to the new contract (10-30 points)
-    
-    - Added liquidity to Rinkeby 100,000,000 TEST Token.
-        - https://rinkeby.etherscan.io/tx/0x62a1e51ce8394e535573acece00bb9a62db43685ea2fad99394e17a216b5f5e6
-    - Added liquidity to Kovan 100,000,000 TEST token.
-        - https://kovan.etherscan.io/tx/0xd0748ef1311dc96bace758635a07b6a2b890f4b83bbdea95974c85ce434c9b64
-    - Added liquidity to Goerli 1,000,000,000 TEST token.
-        - https://goerli.etherscan.io/tx/0xd0894db263a0b4c5f4a0d95cd2896f2d4b485b2354165cbbbcb91a6b6e842cea
-2. Flash Challanges (10-100 points)
-3. Router Connext Quests (10-500 points)

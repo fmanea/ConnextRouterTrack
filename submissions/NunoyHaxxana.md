@@ -87,17 +87,8 @@ https://rinkeby.etherscan.io/tx/0x83bc560539a089a26e4faf71506cd2188271ca15bbfc76
 https://rinkeby.etherscan.io/tx/0xd47501b1cd8191daedfe4347db778354c6aa0ac9210c4010d2488ffb1c1f7230
 https://rinkeby.etherscan.io/tx/0x90b4de9706cd92892611f6f4b64102a6c09bba5e408efcf294c68647ba7e233e
 
----
-
 2) Flash Challanges (10-100 points)
-
----
+- 
 
 3) Router Connext Quests (10-500 points)
-
-- Router-Connext-Quests-2 : Quick Router setup
-https://github.com/NunoyHaxxana/Router-Connext-Quests-2
-
-
-- Router-Connext-Quests-3 : Docker & server monitor via zabbix
-https://github.com/NunoyHaxxana/Router-Connext-Quests-3
+- 
