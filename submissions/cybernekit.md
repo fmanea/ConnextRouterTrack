@@ -28,27 +28,3 @@ https://discord.com/channels/454734546869551114/966239886829060096/9764530577999
 https://discord.com/channels/454734546869551114/966239886829060096/976887128573222922
 
 https://discord.com/channels/454734546869551114/813913687831478282/977075225135038514
-
-
-Router Track Mission 2 (24.05-31.05)
-
-1.  Step-by-step guide with how to install monitoring (grafana,prometheus) 
-
-https://github.com/cybernekit/Grafana-Prometheus
-
-2. Creating self-made scripts to installing Connext Router with my logo
-
-https://github.com/cybernekit/RouterSetupGuide/blob/main/router_WEB3.sh
-
-3. Answer questions and help others to run router in this Discord channel 
-https://discord.com/channels/454734546869551114/978722712686043188/981282116849500280
-https://discord.com/channels/454734546869551114/813914092707905546/981282516025622538
-https://discord.com/channels/454734546869551114/813914092707905546/981282636519579769
-
-
-4. Feedback/improvement proposals/building high impact tools 
-- Make telegram bot that will monitor Router (I will try to do it).
-- Run additional testnet for TheGraph indexer. (come up with some tasks)
-- Run more tests of bridge and LP.
-
-5. Start boosting the discord server 

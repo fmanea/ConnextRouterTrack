@@ -18,15 +18,3 @@
 3) Answer questions and help others to run router in this Discord channel (1-10 points)
 
    I was in some discussion on the Discord router channel with others
-
-## Router Track Mission 2 (16.05-23.05)
-
-1) Answer questions and help others to run router in this Discord channel (1-10 points)
-
-
-## Router Track Mission 3 (23.05-30.05)
-1) Complete Testnet Upgrade and Add liquidity to the new contract 
- 
-   - Router address is: 0x329Fb31B63729153D878808099A0b683FF665796
- 
-   - added liquidity to Rinkeby, Kovan and Goerli
