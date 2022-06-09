@@ -1,5 +1,5 @@
 # Discord handle: Latthy#6084
-
+# connext router: 0xcE966F651aA689386Ae990630c01547D535e3EcA
 Router track mission 1 
 
 1.Spinning up a router on the testnet
