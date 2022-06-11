@@ -23,4 +23,17 @@ Rinkeby, Kovan  Completed
 
 Feedback: As I am a common user with just a few knowledge of programming showing that it's not too hard to run the router if there is a good guildline, like from this guy https://medium.com/@nizeimbaboy.2 from the Thai community :)
 
+## Router Track Mission 3 (23.05-30.05)
 
+1) Testnet Upgrade - Add liquidity to the new contract
+- router version: sha-0039612
+- router address: https://testnet.amarok.connextscan.io/router/0xCed67Ba454a753c62a4f1fb0984B681Fc5b54112
+
+- liquidity on Kovan
+https://kovan.etherscan.io/tx/0x4051d4997712b11306d878f6fce9e8cb2ffbada8b1b539485e2463787521c362
+
+- liquidity on goerli
+https://goerli.etherscan.io/tx/0xa941a6a2625f10b4546be71f2232597dc9dcd8ae9fd19620890fefc3a50597ef
+
+- liquidity on rinkeby
+https://rinkeby.etherscan.io/tx/0xaab98c19a50ec1fc0f83126b58e38b71fd575d9776b2209406da128808f23184
