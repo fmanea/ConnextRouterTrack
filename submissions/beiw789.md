@@ -26,7 +26,6 @@ Feedback:
 - web ui bux not show  information add LIQUIDITY and other
 
 
-
 ## 2.Choose the activity which you intend to work on over the course of the program
 - 
 
@@ -54,9 +53,6 @@ Feedback:
 # Router Track Mission 3 
 
 ## 1.Testnet Upgrade - Add liquidity to the new contract 
-
-
-
 
 
 ## 2.Flash Challanges
