@@ -25,3 +25,14 @@ Feedback: Although I select my Metamask account 3 but it remembered account 1. I
 
 3. Answer questions and help others to run router in this Discord channel
 - For other projects, I help answer and support the community to run router. This community is quite active and I will be one of them.
+
+## Router Track Mission 3 (23.05-30.05) 
+
+1) Testnet Upgrade - Add liquidity to the new contract (10-30 points) 
+- router version: 0.2.0-beta.8
+- router address: https://testnet.amarok.connextscan.io/router/0xFEfF7f537Adfd4b4436Ad89faa828149547074F1 
+
+- Liquidity on Rinkeby: 0xa51613b8006d372841caba706c82f87bea8f3fd0bbc25873de0ead87528df2ef
+- Liquidity on Kovan: 0x9b3444878ff2876c47f8a0a4e4a3cb50d7e21e2b287bfde250d3b2090bb45dc1
+- Liquidity on Goerli: 0xa87a7ecf3684292a8bfaaaa466f73fcf42cd1e6ad506d26accfedb7518d7f2ad
+- Remark: Add router liquidity success as per above Tx but no liquidity shown on the web.
