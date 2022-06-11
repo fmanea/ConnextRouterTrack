@@ -54,13 +54,7 @@ Feedback:
 # Router Track Mission 3 
 
 ## 1.Testnet Upgrade - Add liquidity to the new contract 
-Add liquidity to the new contract : 
-Rinkeby,Kovan,Görli  Completed
 
-Rinkeby, Kovan  Completed
- - Kovan URL: https://kovan.etherscan.io/tx/0x920f4330d1a6d5879a57f9a60d21a8987f3f5c10ced07454ead196cd95952fb8
- - Rinkeby URL: https://rinkeby.etherscan.io/tx/0xe1452fd03c48b7fd2540fd7baea8da764a032c92059a0210019aeb2a3136cde5
- - Görli URL: https://goerli.etherscan.io/tx/0x3e3a0ee6eb946987318bc18c667849abe54beb277a3f140cfb6aa1f6f690f45d
 
 
 
