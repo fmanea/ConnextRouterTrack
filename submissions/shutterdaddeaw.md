@@ -21,4 +21,26 @@ Kovan,Rinkeby and Goerli all completed
 
 #### 3) Answer questions and help others to run router in this Discord channel (1-10 points)
 -https://discord.com/channels/454734546869551114/864880447163334666/980438386902982667
--
+
+
+
+# Router Track Mission 2 (16.05-23.05)
+
+#### 1) Video guide with a step-by-step running router in any language (5-100 points)
+-N/A
+#### 2) Guides and your experience articles about running router in socials (medium etc.) in any language (5-50 points)
+-https://medium.com/@khungrai25/mission-connext-router-track-thai-26148bdce38e
+
+#### 3) Answer questions and help others to run router in this Discord channel (1-10 points)
+-https://discord.com/channels/454734546869551114/974586645418475530/981424940588892190
+-https://discord.com/channels/454734546869551114/974586645418475530/981535989837221928
+-https://discord.com/channels/454734546869551114/974586645418475530/981761300373860412
+-https://discord.com/channels/454734546869551114/974586645418475530/981761952936259624
+-https://discord.com/channels/454734546869551114/974586645418475530/981769825372241940
+-https://discord.com/channels/454734546869551114/974586645418475530/981794500919840788
+-https://discord.com/channels/454734546869551114/974586645418475530/981953773373104168
+-https://discord.com/channels/454734546869551114/974586645418475530/981955959616331857
+-https://discord.com/channels/454734546869551114/966239886829060096/981963569883119646
+    
+#### 4) Feedback/improvement proposals/building high impact tools (5-500 points)-
+-N/A

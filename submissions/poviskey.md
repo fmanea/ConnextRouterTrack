@@ -1,4 +1,4 @@
-# Discord Handle: povWhisk#0723
+## Discord Handle: povWhisk#0723
 ### Router Track Mission 1 (09.05-16.05)
 
 1) Spinning up a router on the testnet
@@ -32,4 +32,34 @@
 
 
 3) Answer questions and help others to run router in this Discord channel (1-10 points)
+
+### Router Track Mission 2 (16.05-23.05)
+
+1) Video guide with a step-by-step running router in any language (5-100 points)
+
+2) Guides and your experience articles about running router in socials (medium etc.) in any language (5-50 points)
+
+3) Answer questions and help others to run router in this Discord channel (1-10 points)
+
+4) Feedback/improvement proposals/building high impact tools (5-500 points)
+
+### Router Track Mission 3 (23.05-30.05)
+
+1) Testnet Upgrade - Add liquidity to the new contract (10-30 points)
+
+      - Added liquidity  Kovan:
+
+         - 0x61df842a1a51d1964ff255a48900d45519cd7809108dc0b13ee47e835107a929
+
+      - Added liquidity  Goerli:
+
+        - 0x9d611215c4b2a03dd6ef8e58e2270cab7571bbc8f1d7b11ff7197608965783a8
+
+      - Added liquidity  Rinkeby:
+
+        - 0xd128166d85cac741e58eede285d9c852650408fb784517f565130d2516ef629a
+
+2) Flash Challanges (10-100 points)
+
+3) Router Connext Quests (10-500 points)
 

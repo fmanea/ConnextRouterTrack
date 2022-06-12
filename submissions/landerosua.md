@@ -54,3 +54,23 @@
    - In general, everything is fine.It would be a good idea to evaluate the work for the past period and update it after each period of work (week) so that each participant can evaluate their efforts.
 
    - Unfortunately, I still cannot add liquidity to the Goerli network, I get an error.
+
+## Router Track Mission 3 (23.05-30.05)
+
+1) Testnet Upgrade - Add liquidity to the new contract (10-30 points)
+
+    - Added on Rinkeby:
+	Transaction Hashes: 0x4a016eea0885840e4fc20a184e0a1b83bc0b0e58e87f9bdaa832e3202221f928
+
+    - Added liquidity on Kovan: 
+	Transaction Hashes: 0xcd15e16cbca418cfdd204ddd0c551f34fd651d53fa5cdcfc8384609afc55f9c8
+
+    - Added liquidity on Goerli: 
+	Transaction Hashes: 0xd8b155c338a9b8d120a7c4ff3f2d61f317516b5895b970a3adae4e1625cf9fb9
+
+2) Flash Challanges
+
+    - My text guide is in Articles-Russian at number 3
+
+    - My video guide is in Videos-Russian at number 1
+

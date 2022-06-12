@@ -44,16 +44,15 @@ Also. all the submissions and work that a Router track participant has made shou
 
 Each week there will be some missions for the Router Track participants in which they will be rewarded with some points for delivering that activity.
 
+### How to get maximum points? 
+
+Key evaluation criteria are quality (for docs/ guides/mentoring) and impact (for improvement proposals,  feedback and tools). Connext should aim to be a self served platform also for routers, and we need to make sure documentations and guides serve this purpose.
 
 ## Router Track Mission 1 (09.05-16.05)
 
 1. Spinning up a router on the testnet (10-30 points that depends on feedback /improvements proposals)
 2. Choose the activity which you intend to work on over the course of the program (5 points)
 3. Answer questions and help others to run router in this Discord channel (1-10 points)
-
-### How to get maximum points? 
-
-Key evaluation criteria are quality (for docs/ guides/mentoring) and impact (for improvement proposals,  feedback and tools). Connext should aim to be a self served platform also for routers, and we need to make sure documentations and guides serve this purpose.
 
 ## Router Track Mission 2 (16.05-23.05)
 
@@ -67,12 +66,32 @@ Key evaluation criteria are quality (for docs/ guides/mentoring) and impact (for
 2. Flash Challanges (10-100 points)
 3. Router Connext Quests (10-500 points)
 
+## Router Track Mission 4 (08.06-19.06) - note! you need to approve your proposal before starting work (Check Router Track Proposal Guide above)
+1. Improve connext docs. We have a lot of good guides - now we need to improve official documentation quality. https://docs.connext.network/routers/intro (5-50 points)
+2. Create your own quest. Don’t have enough time / skills to create tool or improvement?  Just create a quest with your idea and get up to 100 points
+https://forms.gle/qeeMyphU59TDxaWb7 (1-100 points)
+3. Security quests (10 -100 points)
+- How to integrate web3signer with one of the cloud providers instead of using the key.yaml (aws secret manager, gcp secret manager, aws secrets, ansible vault, k8s etc.) + Bonus points for scripts(cloudformation, terraform) 
+- Best practices for generating and managing ssh-keys
+- Hardening ssh config
+- Hardening current docker-compose file
+- How to create and use bastion instance for accessing routers infr
 
-# Flash Challange
 
-The flash challenge is quality based, and the sumissions that are picked for this activity will receive rewards. 
+# Flash Challange and Connext Quests 
 
-## Flash Challenge 1 - Explore all guides, and gather them in one place in Docs 
+The flash challenge is quality based, and the sumissions that are picked for this activity will receive rewards.
+The Connext Quests are more complex and are not time based. They require approval for starting working on it. How does it work? 
+
+1. Submit a proposal on this repository, in the "proposals" directory (Check Router Track Proposal Guide above). Propassal should include
+- Name of the challenge/quest you are applying for
+- Describe what are you going to do
+- Roadmap and milestones (if it's long-time project)
+3. Open a private thread in router-track discord channel and get approval for starting the work on this challange;
+4. The Track Leaders will move the approved proposals into the "approved_proposals" folder where the progress will be tracked;
+ 
+
+## ~~Flash Challenge 1 - Explore all guides, and gather them in one place in Docs~~ - DONE
 
 1. Create Guides page in Docs https://docs.connext.network/routers/guides
 2. Explore every guide written by other routers, group them by type (text/video), running way (AWS/Google/DO, Dedicated server, local home computer, kubernetes),  language, etc. Links to the guides you can find here https://github.com/fmanea/ConnextRouterTrack/tree/main/submissions 
@@ -102,20 +121,6 @@ Your proposal should include
 - which projects are already use it?
 - how it can improve the current process
 - instruction/your experience how to set up it and use for managing keys/liquidity
-
-# Router Connext Quests 
-
-These Challanges are more complex and are not time based. They require approval for starting working on it. How does it work? 
-1. Submit a proposal on this repository, in the "proposals" directory (Check Router Track Proposal Guide above). Propassal should include
-- Name of the challenge/quest you are applying for
-- Briefly describe your project
-- Detailed project proposal 
-- Project roadmap and milestones
-- KPIs (how can we measure the success of your project?)
-- Your professional background
-- Have you already worked on similar projects?
-3. Open a private thread in router-track discord channel and get approval for starting the work on this challange;
-4. The Track Leaders will move the approved proposals into the "approved_proposals" folder where the progress will be tracked;
 
 ## Quest 1 - Build Tools (10-500 points)
 
@@ -157,6 +162,25 @@ Example:
 - Create Grafana dashboard
 
 Our dream is to have different approches to monitor the router metrics and logs. Each router deployment can be easily integrate with any kind of infrastructure.
+
+## Quest 5 - Integrade web3signer (10-100 points)
+
+How to integrate web3signer with one of the cloud providers instead of using the key.yaml (aws secret manager, gcp secret manager, aws secrets, ansible vault, k8s etc.). + Bonus points for scripts(cloudformation, terraform, etc.). Note! You need submit a proposal before starting. Expected result is PR with edit in connext docs https://docs.connext.network/routers/intro 
+
+## Quest 6 - Best practices for generating and managing ssh-keys (10-30 points)
+Note! You need submit a proposal before starting. Expected result is PR with edit in connext docs https://docs.connext.network/routers/intro 
+
+
+## Quest 7 - Hardening ssh config (10-30 points)
+Note! You need submit a proposal before starting. Expected result is PR with edit in connext docs https://docs.connext.network/routers/intro 
+
+
+## Quest 8 - Hardening current docker-compose file (10-30 points)
+Note! You need submit a proposal before starting. Expected result is PR with edit in connext docs https://docs.connext.network/routers/intro 
+
+## Quest 9 - How to create and use bastion instance for accessing routers infrastructure (10-30 points)
+Note! You need submit a proposal before starting. Expected result is PR with edit in connext docs https://docs.connext.network/routers/intro 
+
 
 
 

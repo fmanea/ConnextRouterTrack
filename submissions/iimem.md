@@ -15,3 +15,9 @@ Added liquidity:
 - Kovan TX HASH: https://kovan.etherscan.io/tx/0xf749d6633bc4b1e082d0a9c0f907b9a5e1ca5283b7d805954cf184341f38caa3
 
 Test bridge:
+Rinkeby, Kovan,Görli  Completed
+- Kovan URL: https://kovan.etherscan.io/tx/0xe79c43730ae38e8d042914afda1a76646b824efa3259e48376baacf6043e26f8
+- Rinkeby URL:https://rinkeby.etherscan.io/tx/0x1ae878b353b8c6d3db66141c18d29af1e1b07a6362edaca6828e8224408cbf48
+- Görli URL: https://goerli.etherscan.io/tx/0x1cd27c6f808860f649f11b76f526d1bd8a80e38ac7237c4ec42061c5ccaeefda
+
+Feedback : It is my first time to run node without knowledge of programming. It quite hard to use tools and program. I spend hours to finished the task but the result is great. No error. I would say that the guide from the community is very helpful and if I have a chance to help other in the comunity, I will.
