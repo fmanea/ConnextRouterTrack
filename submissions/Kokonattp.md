@@ -20,7 +20,7 @@ and Setting up node is complicated. if a people is knowledge aboute container or
         : Rinkeby 
             Transaction Hash: 0x4730cf9e9cbb8da36db2fcdeeea71683552ad66c5968ded28e82dd743432b31d
             URL: https://rinkeby.etherscan.io/tx/0x4730cf9e9cbb8da36db2fcdeeea71683552ad66c5968ded28e82dd743432b31d
-        : Görli URL : N/A
+        : Görli 
             Transaction Hash: 0xb67a01c3c26599473fe90d768fd49644c330faec78310476988e7bc586f03eac
             URL: https://goerli.etherscan.io/tx/0xb67a01c3c26599473fe90d768fd49644c330faec78310476988e7bc586f03eac
         : Kovan 
@@ -52,4 +52,44 @@ I found a some problem and communicate on thai community group, for this questio
 https://discord.com/channels/454734546869551114/974586645418475530/979049998496985170
 
 
+--------------------------------------------------------------------------------------------
 
+Update version router to sha-0039612
+
+6-Jun-22 02:50 UTC Time.
+This process is success.
+
+
+--------------------------------------------------------------------------------------------
+
+Router Track Mission Week 2 (16.05-23.05)
+
+(1). Video guide with a step-by-step running router in any language
+
+(2). Guides and your experience articles about running router in socials (medium etc.) in any language
+
+(3). Answer questions and help others to run router in this Discord channel
+
+(4). Feedback/improvement proposals/building high impact tools
+
+
+-------------------------------------------->
+
+Router Track Mission 3   (23.05-30.05)
+
+Testnet Upgrade - Add liquidity to the new contract
+router version: sha-0039612
+
+My router address: 0x3DB9cA552aa915d1986025c09951F0521bf9F402
+My testnet : https://testnet.amarok.connextscan.io/router/0x3DB9cA552aa915d1986025c09951F0521bf9F402
+
+    Added liquidity:
+        : Rinkeby 
+            Transaction Hash: 0x583315131c2046fedd0d8b111e534ed9537b2131da2856c3a9bfc1e0c3a01c0b
+            URL: https://rinkeby.etherscan.io/tx/0x583315131c2046fedd0d8b111e534ed9537b2131da2856c3a9bfc1e0c3a01c0b
+        : Görli 
+            Transaction Hash: 0xe8529b2888f19ba4221810eb65bf4095e90942b5a940a77ca3afafcdc51d0815
+            URL: https://goerli.etherscan.io/tx/0xe8529b2888f19ba4221810eb65bf4095e90942b5a940a77ca3afafcdc51d0815
+        : Kovan 
+            Transaction Hash: 0xa181e5c93e6fa3ed0ac846b0b76b2863cac433c4c0d7887608e9aa1b5fdf4cc3
+            URL: https://kovan.etherscan.io/tx/0xa181e5c93e6fa3ed0ac846b0b76b2863cac433c4c0d7887608e9aa1b5fdf4cc3
