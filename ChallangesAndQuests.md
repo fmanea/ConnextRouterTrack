@@ -3,7 +3,8 @@
 The flash challenge is quality based, and the sumissions that are picked for this activity will receive rewards.
 The Connext Quests are more complex and are not time based. They require approval for starting working on it. We need it to avoid duplication of work among participants. How does it work?
 
-1. Submit a proposal on this repository, in the "proposals" directory (Check Router Track Proposal Guide above). Propassal should include
+1. Head out to "proposals" directory within this repository and create a .md file with your github handle, an example of a file would be: "fmanea.md".
+The content of the file should contain the discord handle of the participant (or if it's a group of people working on a big feature, their discord handles). Also, the content of the file should contain any kind of proposal that you would want to build.
 - Name of the challenge/quest you are applying for
 - Describe what are you going to do in details
 - Roadmap and milestones (if it's long-time project)
