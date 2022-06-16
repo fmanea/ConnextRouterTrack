@@ -24,13 +24,15 @@ Key evaluation criteria are quality (for docs/ guides/mentoring) and impact (for
 2. Flash Challanges (10-100 points)
 3. Router Connext Quests (10-500 points)
 
-## Router Track Mission 4 (08.06-19.06) - note! you need to approve your proposal before starting work (Check Router Track Proposal Guide above)
-1. Improve connext docs. We have a lot of good guides - now we need to improve official documentation quality. https://docs.connext.network/routers/intro (5-50 points)
+## Router Track Mission 4 (08.06-19.06)
+
+1. Improve connext docs. We have a lot of good guides - now we need to improve official documentation quality. Expected result is PR with edit in connext docs https://docs.connext.network/routers/intro (5-50 points)
 2. Create your own quest. Don’t have enough time / skills to create tool or improvement?  Just create a quest with your idea and get up to 100 points
 https://forms.gle/qeeMyphU59TDxaWb7 (1-100 points)
-3. Security quests (10 -100 points)
-- How to integrate web3signer with one of the cloud providers instead of using the key.yaml (aws secret manager, gcp secret manager, aws secrets, ansible vault, k8s etc.) + Bonus points for scripts(cloudformation, terraform) 
-- Best practices for generating and managing ssh-keys
-- Hardening ssh config
-- Hardening current docker-compose file
-- How to create and use bastion instance for accessing routers infr
+3. Security quests. You can find links for the quests below. Expected result is PR with edit in connext docs https://docs.connext.network/routers/security (10 -100 points)
+> note! you need to approve your proposal before starting work with quests - [Check proposal's Guide here](https://github.com/fmanea/ConnextRouterTrack#router-track-proposals)
+- [Quest 5](https://github.com/fmanea/ConnextRouterTrack/blob/main/ChallangesAndQuests.md#quest-5---integrade-web3signer-10-100-points) How to integrate web3signer with one of the cloud providers instead of using the key.yaml (aws secret manager, gcp secret manager, aws secrets, ansible vault, k8s etc.) + Bonus points for scripts(cloudformation, terraform) 
+- [Quest 6](https://github.com/fmanea/ConnextRouterTrack/blob/main/ChallangesAndQuests.md#quest-6---best-practices-for-generating-and-managing-ssh-keys-10-30-points) Best practices for generating and managing ssh-keys
+- [Quest 7](https://github.com/fmanea/ConnextRouterTrack/blob/main/ChallangesAndQuests.md#quest-7---hardening-ssh-config-10-30-points) Hardening ssh config
+- [Quest 8](https://github.com/fmanea/ConnextRouterTrack/blob/main/ChallangesAndQuests.md#quest-8---hardening-current-docker-compose-file-10-30-points) Hardening current docker-compose file
+- [Quest 9](https://github.com/fmanea/ConnextRouterTrack/blob/main/ChallangesAndQuests.md#quest-9---how-to-create-and-use-bastion-instance-for-accessing-routers-infrastructure-10-30-points) How to create and use bastion instance for accessing routers infr
