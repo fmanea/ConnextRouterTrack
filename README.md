@@ -30,7 +30,7 @@ Router Track participants will have the possibility to send proposals to build v
 - Name of the challenge/quest you are applying for
 - Describe what are you going to do in details
 - Roadmap and milestones (if it's long-time project)
-2. Send link with your PR in discord directly to "Mateip | bwarelabs.com#1629" or "Vladislav | p2p.org#8449". We will check if nobody has already done this quest, ask about realization if necessary, and approve starting of work
+2. Send link with your PR in discord directly to "Mateip | bwarelabs.com#1629" or "Vladislav | p2p.org#8449". We will check if nobody has already has similar proposal, ask about realization if necessary, and approve starting of work
 3. The Track Leaders will move the approved proposals into the "approved_proposals" folder where the progress will be tracked;
 
 > Note: `We will accept pull requests only if the .md file matches the github handle`
