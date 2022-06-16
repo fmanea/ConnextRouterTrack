@@ -1,7 +1,9 @@
-# Flash Challange and Connext Quests 
+# Flash Challenge and Connext Quests 
 
 The flash challenge is quality based, and the sumissions that are picked for this activity will receive rewards.
-The Connext Quests are more complex and are not time based. They require approval for starting working on it. We need it to avoid duplication of work among participants. How does it work?
+
+The Connext Quests are more complex and are not time based. How does it work?
+> Note: ` You need to get approval for starting working on Connext Quests since we want to avoid duplication of work among participants. But Flash Challenges don't require approval `
 
 1. Head out to "proposals" directory within this repository and create a .md file with your github handle, an example of a file would be: "fmanea.md".
 The content of the file should contain the discord handle of the participant (or if it's a group of people working on a big feature, their discord handles). Also, the content of the file should contain any kind of proposal that you would want to build.
