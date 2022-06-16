@@ -27,8 +27,9 @@ The application process consists of several steps. **You** **must complete all o
 Router Track participants will have the possibility to send proposals to build various tools for the Router community, that will improve the Router experience. 
 
 1. Head out to "proposals" directory within this repository and create a .md file with your github handle, an example of a file would be: "fmanea.md".The content of the file should contain the discord handle of the participant (or if it's a group of people working on a big feature, their discord handles).Also, the content of the file should contain any kind of proposal that you would want to build.
-- Name of the challenge/quest you are applying for
-- Describe what are you going to do in details
+- What do you want to create in one sentence
+- Why is it important? What's the value?
+- Describe what are you going to do in details (more details - less questions from our side:))
 - Roadmap and milestones (if it's long-time project)
 2. Send link with your PR in discord directly to "Mateip | bwarelabs.com#1629" or "Vladislav | p2p.org#8449". We will check if nobody has already has similar proposal, ask about realization if necessary, and approve starting of work
 3. The Track Leaders will move the approved proposals into the "approved_proposals" folder where the progress will be tracked;
