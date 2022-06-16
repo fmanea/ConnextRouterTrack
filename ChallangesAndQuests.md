@@ -1,13 +1,13 @@
 # Flash Challange and Connext Quests 
 
 The flash challenge is quality based, and the sumissions that are picked for this activity will receive rewards.
-The Connext Quests are more complex and are not time based. They require approval for starting working on it. How does it work? 
+The Connext Quests are more complex and are not time based. They require approval for starting working on it. We need it to avoid duplication of work among participants. How does it work?
 
 1. Submit a proposal on this repository, in the "proposals" directory (Check Router Track Proposal Guide above). Propassal should include
 - Name of the challenge/quest you are applying for
-- Describe what are you going to do
+- Describe what are you going to do in details
 - Roadmap and milestones (if it's long-time project)
-3. Open a private thread in router-track discord channel and get approval for starting the work on this challange;
+3. Send link with your PR in discord directly to "Mateip | bwarelabs.com#1629" or "Vladislav | p2p.org#8449". We will check if nobody has already done this quest, ask about realization if necessary, and approve starting of work
 4. The Track Leaders will move the approved proposals into the "approved_proposals" folder where the progress will be tracked;
  
 
