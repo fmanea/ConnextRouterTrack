@@ -7,7 +7,7 @@ The Connext Quests are more complex and are not time based. How does it work?
 
 1. Head out to "proposals" directory within this repository and create a .md file with your github handle, an example of a file would be: "fmanea.md".
 The content of the file should contain the discord handle of the participant (or if it's a group of people working on a big feature, their discord handles). Also, the content of the file should contain any kind of proposal that you would want to build.
-- Name of the challenge/quest you are applying for
+- Name of the quest you are applying for
 - Describe what are you going to do in details
 - Roadmap and milestones (if it's long-time project)
 3. Send link with your PR in discord directly to "Mateip | bwarelabs.com#1629" or "Vladislav | p2p.org#8449". We will check if nobody has already done this quest, ask about realization if necessary, and approve starting of work
