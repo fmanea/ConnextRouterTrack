@@ -52,3 +52,21 @@ https://discord.com/channels/454734546869551114/813914092707905546/9812826365195
 - Run more tests of bridge and LP.
 
 5. Start boosting the discord server 
+
+Router Track Mission 3 
+
+1. Filmed and recorded a video guide (for ukrainian or russian speaker) on how to start the router using my script.
+
+2. Updated my guide, improved it and added a script and a link to the video and also for cheryl it in social networks https://github.com/cybernekit/RouterSetupGuide/commits/main/router_WEB3.sh
+
+3. Create some memes 
+https://discord.com/channels/454734546869551114/813913687831478282/987759973566124052
+https://discord.com/channels/454734546869551114/813913687831478282/987760036208070666
+
+4. Social networks where I published guides 
+
+https://twitter.com/web34ever/status/1538204809462894592
+https://www.facebook.com/nikita.lysenko.14/posts/pfbid0aajAkvm6bPLVzi2WjGdAv5DbgzYZ9XkGWAwCcgm6JiTbSdnBMnf83djmz9cugU6nl
+https://discord.com/channels/454734546869551114/959222166228983878/987765696660394024
+
+5. Added this contribution to my website https://web3validator.info/#contribution
