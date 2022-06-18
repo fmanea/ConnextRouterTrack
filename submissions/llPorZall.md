@@ -49,3 +49,9 @@ https://discord.com/channels/454734546869551114/966239886829060096/9749445253048
 	- Provision the Connext router via AWS infrastructure https://github.com/llPorZall/connext-cloud-formation
   - Quest 4 - Monitoring tools for Routers (10-500 points)
 	- Provision cloduwatch dashboard and SNS alert to customer email  https://github.com/llPorZall/connext-cloud-formation
+
+## Router Track Mission 4 (08.06-19.06)
+1) Quest 5 How to integrate web3signer with one of the cloud providers instead of using the key.yaml (aws secret manager, gcp secret manager, aws secrets, ansible vault, k8s etc.) + Bonus points for scripts(cloudformation, terraform)
+  - Integrated with Azure secret to protect router private key https://github.com/llPorZall/connext-cloud-formation 
+2) Quest 6 - Best practices for generating and managing ssh-keys
+  - Allow user access to router server only with public key (AWS Key pair) and whitelist firewall (Security group) https://github.com/llPorZall/connext-cloud-formation 
