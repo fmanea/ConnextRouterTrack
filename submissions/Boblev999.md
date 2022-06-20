@@ -65,3 +65,10 @@ https://discord.com/channels/454734546869551114/966239886829060096/9789337898226
 
 Additionally:
 Indicated in the personal message Discord @rahul on problems with the Sequencer URL
+
+# Router Track  (17.06)
+
+I found the bug and described it in issues : https://github.com/connext/nxtp/issues/1407
+
+My graphic design: https://discord.com/channels/454734546869551114/920859635622240298/981042443174682664
+
