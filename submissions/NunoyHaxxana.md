@@ -101,3 +101,14 @@ https://github.com/NunoyHaxxana/Router-Connext-Quests-2
 
 - Router-Connext-Quests-3 : Docker & server monitor via zabbix
 https://github.com/NunoyHaxxana/Router-Connext-Quests-3
+
+
+---
+
+Quest 6 - Best practices for generating and managing ssh-keys
+https://github.com/NunoyHaxxana/nxtp-router-setup/tree/main/SSH-KEYs
+
+
+Quest 7 - Hardening ssh config
+https://github.com/NunoyHaxxana/nxtp-router-setup/tree/main/Hardening%20ssh%20config
+
