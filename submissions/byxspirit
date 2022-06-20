@@ -1,0 +1,39 @@
+Discord Handle: Mr.A#8604
+Router Track Mission 1 (09.05-16.05)
+Spinning up a router on the testnet
+
+Router address is: 0x719EDDFf0658677fE2528010e3eeefDEAC49B88C
+Added liquidity on Rinkeby:
+https://rinkeby.etherscan.io/tx/0x2d76440953fa2804f8a47f26f493fc1c04e895aa23d7a94783e63489ef5b4198
+Added liquidity on Gorli:
+https://goerli.etherscan.io/tx/0x98c53a78d22c3ad456c5655f056c82b85ad02a26c18a3a597537e5fe2b89a68a
+Added liquidity on Kovan:
+https://kovan.etherscan.io/tx/0x2cd6343f07f1863062a3d7a88d1520fe8e380e2ef5ace2b4f8bb8e74c0fd3c3c
+
+Choose the activity which you intend to work on over the course of the program
+
+Router Track Mission 3 (23.05-30.05)
+Testnet Upgrade - Add liquidity to the new contract (10-30 points)
+
+Added liquidity:
+
+Router address is: 0x719EDDFf0658677fE2528010e3eeefDEAC49B88C
+Added liquidity on Rinkeby:
+https://rinkeby.etherscan.io/tx/0x2d76440953fa2804f8a47f26f493fc1c04e895aa23d7a94783e63489ef5b4198
+Added liquidity on Gorli:
+https://goerli.etherscan.io/tx/0x98c53a78d22c3ad456c5655f056c82b85ad02a26c18a3a597537e5fe2b89a68a
+Added liquidity on Kovan:
+https://kovan.etherscan.io/tx/0x2cd6343f07f1863062a3d7a88d1520fe8e380e2ef5ace2b4f8bb8e74c0fd3c3c
+
+Tested bridge:
+
+https://testnet.amarok.connextscan.io/tx/0x384d5b628301e6226cbdca5d6cff799e2034262faec72d30cf5aac9fa431d706
+https://testnet.amarok.connextscan.io/tx/0xbf93c9b2963c9274c05648c2fb0f80ce4cff3ac31d55f4af7ef092934a9bada5
+https://testnet.amarok.connextscan.io/tx/0xb5ce24fee1d478fe839125a8636db9769c141095118c1c15f1a66df3458f5833
+
+Flash Challanges (10-100 points)
+
+
+update patch to 0.2.0-beta.8
+
+Router Connext Quests (10-500 points)
