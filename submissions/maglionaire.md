@@ -35,3 +35,5 @@
 2. Flash Challanges (10-100 points)
 
 3. Router Connext Quests (10-500 points)
+   - Quest 2: Quick router setup
+     - https://github.com/maglionaire/setup-router
