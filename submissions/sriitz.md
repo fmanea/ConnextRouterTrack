@@ -30,11 +30,18 @@ https://testnet.amarok.connextscan.io/tx/0x8c2e8ec252daadeab62705017dccb1afe0f7f
 
 
 3) Answer questions and help others to run router in this Discord channel
-- 
-
+- https://discord.com/channels/454734546869551114/966239886829060096/982177330141204540
+https://discord.com/channels/454734546869551114/966239886829060096/982203213950378044
+https://discord.com/channels/454734546869551114/974586645418475530/982253155817508884
+https://discord.com/channels/454734546869551114/974586645418475530/982294863645118514
+https://discord.com/channels/454734546869551114/974586645418475530/983014509390229504
+https://discord.com/channels/454734546869551114/974586645418475530/983017566408679484
 
 4) Feedback/improvement proposals/building high impact tools
-- Feedback/improvement proposals: 
+-  Feedback/improvement proposals:
+- I got tx stucking during the bridge for about 2 days
+- UX/UI is very clean and easy to use
+- add liquidity is already success but UI not show when fisnish, So I help answer this question about this on discord
 
 
 ---
@@ -48,6 +55,9 @@ https://testnet.amarok.connextscan.io/tx/0x8c2e8ec252daadeab62705017dccb1afe0f7f
 
 liquidity on Kovan
 https://kovan.etherscan.io/tx/0x2f5d84dc81fc1683dfe1b729fb49a02bfb9496833a89292cc8229299d7ddb66f
+https://kovan.etherscan.io/tx/0x3dabd78c5fa43b9376753f5fdd1a966551d87acf6b9b714dc043a0f8d7398085
+https://kovan.etherscan.io/tx/0xd70b75a02abdb411463ba52a24f625751bf4539a39879639124e83ba50fdd9cc
+https://kovan.etherscan.io/tx/0x64c4a71ed84b53ff02b87b09a4b892f0571577180da7b52d8e07d55a5b07415d
 
 liquidity on rinkeby
 https://rinkeby.etherscan.io/tx/0x04ebebddd96630993200facca8c3113bb7dfb4fa2b1d98cc6e3430b3dc87a54c
@@ -62,7 +72,8 @@ https://goerli.etherscan.io/tx/0x3f3438bd6693a719718995b625caecdf493c018c7ebb0b3
 https://goerli.etherscan.io/tx/0x1909763783263db63d2b00b4afd670c1299875b0a0707ddc0fe0069cc0cd4999
 
 2) Flash Challanges (10-100 points)
-- 
+- Flash Challanges#1: Adding Liquidity Guide https://docs.connext.network/routers/guides/ URL : connext/documentation#44
+- Flash Challanges#2:
 
 3) Router Connext Quests (10-500 points)
 -
