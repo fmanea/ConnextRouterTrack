@@ -55,7 +55,7 @@ https://github.com/connext/documentation/blob/main/docs/routers/intro.md
 
 3. Team-quest 3. Add liquidity. Update adding liquidity section. with details, corner-cases, best practices and visualisation. You can inspire with guides created by community. Let's create the best one! https://github.com/connext/documentation/blob/main/docs/routers/providing-liquidity.md
 
-4. Team-quest 4. Sequrity. Add other variants integrations of web3signer with cloud providers, review and improve best practices and hardering section.
+4. Team-quest 4. Security. Add other variants integrations of web3signer with cloud providers, review and improve best practices and hardering section.
 https://github.com/connext/documentation/blob/main/docs/routers/security.md
 
 
