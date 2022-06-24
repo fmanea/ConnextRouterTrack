@@ -51,11 +51,13 @@ We realized that it would be better to work in a group/team of people to create 
 1. Team-quest 1. Intro. Create a simple but in-depth intro for router documentation with diagrams. Who are routers, why do we need them in Connext, how do they work, and which business model and risks do they have. The basic info is presented in the blog, but you can ask the team for any missing information. 
 https://github.com/connext/documentation/blob/main/docs/routers/intro.md
 
-2. Team-quest 2. Running router. Update spinning up router section with details, corner-cases, best practices, scripts and visualisation. You can inspire with guides created by community. Let's create the best one! https://github.com/connext/documentation/blob/main/docs/routers/spinning-up.md 
+2. Team-quest 2. Running router. Update spinning up router section with details, corner-cases, best practices, overview of automatization scripts and visualization where applicable. You can inspire with guides created by community. Let's create the best one! https://github.com/connext/documentation/blob/main/docs/routers/spinning-up.md 
 
 3. Team-quest 3. Add liquidity. Update adding liquidity section. with details, corner-cases, best practices and visualisation. You can inspire with guides created by community. Let's create the best one! https://github.com/connext/documentation/blob/main/docs/routers/providing-liquidity.md
 
-4. Team-quest 4. Security. Add other variants integrations of web3signer with cloud providers, review and improve best practices and hardering section.
+4. Team-quest 4. Monitoring and alerting. Create a new page in documentation with general description of what monitoring and alerting are, overview tools created by the community, review and propose improvements to these tools, and create additional tools if it's needed. 
+
+5. Team-quest 5. Security. Add other variants integrations of web3signer with cloud providers, review and improve best practices and hardering section.
 https://github.com/connext/documentation/blob/main/docs/routers/security.md
 
 
