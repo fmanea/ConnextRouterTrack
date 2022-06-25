@@ -112,3 +112,7 @@ https://github.com/NunoyHaxxana/nxtp-router-setup/tree/main/SSH-KEYs
 Quest 7 - Hardening ssh config
 https://github.com/NunoyHaxxana/nxtp-router-setup/tree/main/Hardening%20ssh%20config
 
+
+Quest 5 - How to integrate web3signer with one of the cloud providers instead of using the key.yaml
+https://github.com/NunoyHaxxana/nxtp-router-setup/tree/main/Integrade%20web3signer
+
