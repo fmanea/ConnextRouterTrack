@@ -46,3 +46,15 @@ https://discord.com/channels/454734546869551114/966239886829060096/9778331639067
 - Make additional workshops on launching additional infrastructure for routers (for example, TheGraph indexer).
 - Run a  routers stress test.
 - Run additional tests of bridge.
+
+Router Track Mission 3 (23.05-30.05)
+Testnet Upgrade - https://kovan.etherscan.io/tx/0x4173493c5b2743956d058aab8b1cd01a3f662aef3e8ef4cd832eac735528021d
+                  https://rinkeby.etherscan.io/tx/0x97b88834853fd5b8e9d9808485a99bd8d0c7d73ef7f3203ef06ca402c88bb6ba
+                  https://goerli.etherscan.io/tx/0xa192688f402495baae7b7351741d7d40602651e0ef56c8d178bc1eeb52311ba9
+Flash Challanges - Created Connext router setup script https://gist.github.com/Vgk88/e608a3e5f03a8d4fccf3910041f935b1
+Router Connext Quests - Join 2 Quest teams (Quest 3 and quest 5)
+
+Router Track Mission 4 (08.06-23.06)
+Improve connext docs - https://github.com/connext/documentation/pull/43
+Create your own quest - Submitted quest to the form 
+Security quests.  Secure SSH connection setup guide https://mirror.xyz/dashboard/edit/1v9lV3zniD8yLGtrQ2dj3SRnnM-EDqetegAkhH_k4xA
