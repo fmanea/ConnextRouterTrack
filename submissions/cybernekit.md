@@ -81,6 +81,6 @@ https://discord.com/channels/454734546869551114/959222166228983878/9877656966603
 
 Router Track Mission 4 
 
-1. Сreate a guide about secure connection to the server
+1. Сreate a guide about secure connection to the server https://github.com/cybernekit/RouterSetupGuide/blob/main/Secure-connection%D1%8E.md
 2. Submitted quest to the form 
 Security quests. 
