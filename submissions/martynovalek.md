@@ -1,5 +1,6 @@
 # Discord Handle: alex_mart#0948
-(Discord ID: 978724036823642113)
+(Discord ID: 868167590177046559)
+
 ## Router Track Mission Week 1
 1) Spinning up a router on the testnet — complete
 - Router address: 0x3Bb54A2F438627e7A1E423edE5F1b0716403dE93
@@ -76,3 +77,17 @@ Im a member of team.
 @alex_mart (me)
 
 PR to update documentation: https://github.com/connext/documentation/pull/60
+
+***
+
+# Whats else
++ Supporting discord channel community on Router track official and russian branch.
+
+<img width="424" alt="image" src="https://user-images.githubusercontent.com/88688304/179158844-569b6408-246f-4e3a-8b15-4b3d75d16a1a.png">
+
++ Sharing a quick update guides to discord community.
+
++ I helped to watch the record of the call in any language.
+Link: https://discord.com/channels/454734546869551114/966239886829060096/989507279231529030
+
+All my discord activity can be find by searching of ID: 868167590177046559
