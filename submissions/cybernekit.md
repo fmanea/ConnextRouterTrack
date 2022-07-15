@@ -6,7 +6,15 @@ My router address is: 0xD421ebB9a75B8E9CA48be3eeb7e6bA53b34492AC
 Added liquidity: Rinkeby - https://rinkeby.etherscan.io/tx/0xa391bcb5a161a58cc7eb43f4129efb5b727b451f8e74a2755587799c0e3eb776
                  Kovan - https://kovan.etherscan.io/tx/0x99a359d1996eba75d9f462805725e5195fbead5ed92ce95e0fa50f769fca8f50
 
+
+
 Bridge test : https://testnet.amarok.connextscan.io/tx/0x63fa2622589aa0d35cf1ec5c833c993289cc55e4068e11b6307d0e2b1ccaaff3
+
+Router Track Mission 3
+Testnet Upgrade - 
+https://rinkeby.etherscan.io/tx/0x86b1c1da11f5a6a411b2fafed014e17fb4594f3d331bbb12c0cdc9f42f65f792
+https://kovan.etherscan.io/tx/0xac97b6205dd7d565884c6523df1caa019cecdface0b7755217d879101ed41cfb
+https://goerli.etherscan.io/tx/0x902925e3bd9d947596ef4acdbc5ca7d4c4fba8a15f144a28e763a4eba541204f
 
 2. Choose the activity which you intend to work on over the course of the program
 
@@ -70,3 +78,9 @@ https://www.facebook.com/nikita.lysenko.14/posts/pfbid0aajAkvm6bPLVzi2WjGdAv5Dbg
 https://discord.com/channels/454734546869551114/959222166228983878/987765696660394024
 
 5. Added this contribution to my website https://web3validator.info/#contribution
+
+Router Track Mission 4 
+
+1. Сreate a guide about secure connection to the server https://github.com/cybernekit/RouterSetupGuide/blob/main/Secure-connection%D1%8E.md
+2. Submitted quest to the form 
+Security quests. 
