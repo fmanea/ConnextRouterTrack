@@ -75,15 +75,15 @@
     - My video guide is in Videos-Russian at number 1
 
 ## Router Track Mission 5
-# Router Connext Quests
+### Router Connext Quests
 
-# Quest 5 - Alert for low gas (participated in team quest)
+### Quest 5 - Alert for low gas (participated in team quest)
 https://github.com/fmanea/ConnextRouterTrack/pull/422/commits/70702ab44fba823abe8242882036632bdb09245e
 
-# Briefly describe your project:
+### Briefly describe your project:
 - This agent detects low gas usage for the specified contracts in specified chains.
 
-# Detailed project proposal:
+### Detailed project proposal:
 Agent usage:
 - CONNEXT_LOW_GAS
     - Fired when a transaction's gas in less than threshold
