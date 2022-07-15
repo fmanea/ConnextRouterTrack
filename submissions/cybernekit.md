@@ -70,3 +70,7 @@ https://www.facebook.com/nikita.lysenko.14/posts/pfbid0aajAkvm6bPLVzi2WjGdAv5Dbg
 https://discord.com/channels/454734546869551114/959222166228983878/987765696660394024
 
 5. Added this contribution to my website https://web3validator.info/#contribution
+
+Router Track Mission 4 
+
+1. Сreate a guide about secure connection to the server
