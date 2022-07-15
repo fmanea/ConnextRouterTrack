@@ -74,3 +74,29 @@
 
     - My video guide is in Videos-Russian at number 1
 
+## Router Track Mission 5
+# Router Connext Quests
+
+# Quest 5 - Alert for low gas (participated in team quest)
+https://github.com/fmanea/ConnextRouterTrack/pull/422/commits/70702ab44fba823abe8242882036632bdb09245e
+
+# Briefly describe your project:
+- This agent detects low gas usage for the specified contracts in specified chains.
+
+# Detailed project proposal:
+Agent usage:
+- CONNEXT_LOW_GAS
+    - Fired when a transaction's gas in less than threshold
+    - Severity depends on the gas:
+        - `Critical` if the gas is below critical gas threshold
+        - `High` if the gas is below high gas threshold
+        - `Medium` if the gas is below gas threshold
+    - Type is always set to "Suspicious"
+    - Metadata contains:
+        - `timestamp`: timestamp of the block that contains suspicious transaction
+        - `gas`: the amount of used gas
+        - `contract_address`: contact address related to the transaction
+        - `sender`: sender of the transaction
+  - All chains are supported    
+
+
