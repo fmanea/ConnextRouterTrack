@@ -1,4 +1,5 @@
 # Discord Handle: Siwat#7738
+
 ## Router Track Mission 1 (09.05-16.05)
 
 1) Spinning up a router on the testnet
@@ -17,7 +18,7 @@
         Some of Transaction Hashes:    
         - 0x42791fe2c7b63b789da26fcf76247ac0f7b018a3a1032d1f172e1fd4f339cbfc
         - 0x4d7fb8402f90c76a50e45064d125e686d8738789333ff025504ce98b016be1e7
-        - 0x671625229ad0978d8829e79375d32347aebd3a87917587d351e51e0cf929f20f
+        - 0x671625229ad0978d8829e79375d32347aebd3a87917587d351e51e0cf929f20f    
 
     I think the guide is a bit confusing for newcomers as there are so incomplete sections in the website. However, I manage to run it and configure things so in the Mission 2, I will create  a step-by-step guide in my medium publication and also a youtube serie.
 
@@ -32,3 +33,27 @@
     Here are some of my contributions:
         https://discord.com/channels/454734546869551114/966239886829060096/975335023026790400
         https://imgur.com/a/5HBSfSl
+
+## Router Track Mission 2 (16.05-23.05)
+
+1) Guides and your experience articles about running router in socials (medium etc.) in any language (5-50 points)
+
+    https://medium.com/alphaturing/spinning-up-connext-router-testnet-c6bad558ae94
+
+## Router Track Mission 3 (23.05-30.05)
+
+1) Testnet Upgrade - Add liquidity to the new contract (10-30 points)
+
+    I have update my router and added liquidity to the new contract:
+    
+    Some Txs on Rinkeby:    
+
+    - 0xb25234fb28c7ed364adc251a58ba27eeb92c9fa1ca781924cdae52b58f68db68
+        
+    Some Txs on Goerli:
+
+    - 0xce706cc9031a7169efe75d513124982ae431b5a5d4cc18acfba6ea75605af5b7
+
+    Some Txs on Kovan:    
+
+    - 0x94410928fa7078cbb2b65d9f49ad151bbc6a6796446365eec49adb24f35e0c3d 
