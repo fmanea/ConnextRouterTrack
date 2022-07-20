@@ -58,6 +58,16 @@ I will try my best to support Connext with my most abilities and help the commun
         - https://discord.com/channels/454734546869551114/966239886829060096/980304934006317058
         - https://discord.com/channels/454734546869551114/966239886829060096/981574498249764874
         - https://discord.com/channels/454734546869551114/966239886829060096/981588366111940608
+        - https://discord.com/channels/454734546869551114/966239886829060096/994644979215499346
+        - https://discord.com/channels/454734546869551114/966239886829060096/994630415413420112
+        - https://discord.com/channels/454734546869551114/966239886829060096/993205572172271626
+        - https://discord.com/channels/454734546869551114/966239886829060096/988321855322615840
+        - https://discord.com/channels/454734546869551114/966239886829060096/985558538044710932
+        - https://discord.com/channels/454734546869551114/966239886829060096/985129713200685066
+        - https://discord.com/channels/454734546869551114/966239886829060096/984530776408346634
+        - https://discord.com/channels/454734546869551114/966239886829060096/984294264433430568
+        - https://discord.com/channels/454734546869551114/966239886829060096/983561639938895942
+        - https://discord.com/channels/454734546869551114/966239886829060096/982586947035889704
 
 ## Router Track Mission 3 (23.05-30.05)
 
@@ -75,7 +85,6 @@ I will try my best to support Connext with my most abilities and help the commun
         - [Added Guides to the Router Docs](https://github.com/connext/documentation/pull/32)
     - Flash Challenge 2 - Complete the routers documentation intro
         - [Added Intro to the Router Docs (waiting for PR)](https://github.com/connext/documentation/pull/38)
-3. Router Connext Quests (10-500 points)
 
 ## Router Track Mission 4 (08.06-23.06)
 
@@ -88,9 +97,10 @@ I will try my best to support Connext with my most abilities and help the commun
 https://github.com/connext/documentation/blob/main/docs/routers/intro.md
 
     **SUBMITTED WORK**: https://github.com/connext/documentation/pull/62
+    
     **DRAFT REPO**: https://github.com/rroojrooj/Connext-Documentation
 
-    - ROLES:Team Mentor
+    - ROLES: Team Mentor
     - FEEDBACK: Please check the contribution of each team memeber because I don't think that everyone work equally.
         If I need to give points based on their work, ideas, and usefulness, I would propose:
         1. Bhun#1783 (8.5/10)
@@ -99,6 +109,8 @@ https://github.com/connext/documentation/blob/main/docs/routers/intro.md
         4. MAG#0106 (2/10)
         5. alex_mart#0948 (0/10)
 
-The points I gave is based on my opinions. Therefore, please check form your own POV. This is the commit history: 
-    - Second Draft (final draft): https://github.com/rroojrooj/Connext-Documentation/commits/d8d5ab0f5c16114d8d110760502442d69f91c526/firstdraft-intro.md?browsing_rename_history=true&new_path=finaldraft-intro.md&original_branch=main
-    - First Draft: https://github.com/rroojrooj/Connext-Documentation/commits/main/intro-quest1.md
+    The points I gave is based on my opinions. Therefore, please check form your own POV. This is the commit history: 
+
+    Second Draft (final draft): https://github.com/rroojrooj/Connext-Documentation/commits/d8d5ab0f5c16114d8d110760502442d69f91c526/firstdraft-intro.md?browsing_rename_history=true&new_path=finaldraft-intro.md&original_branch=main
+    
+    First Draft: https://github.com/rroojrooj/Connext-Documentation/commits/main/intro-quest1.md
