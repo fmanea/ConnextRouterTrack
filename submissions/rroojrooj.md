@@ -58,6 +58,16 @@ I will try my best to support Connext with my most abilities and help the commun
         - https://discord.com/channels/454734546869551114/966239886829060096/980304934006317058
         - https://discord.com/channels/454734546869551114/966239886829060096/981574498249764874
         - https://discord.com/channels/454734546869551114/966239886829060096/981588366111940608
+        - https://discord.com/channels/454734546869551114/966239886829060096/994644979215499346
+        - https://discord.com/channels/454734546869551114/966239886829060096/994630415413420112
+        - https://discord.com/channels/454734546869551114/966239886829060096/993205572172271626
+        - https://discord.com/channels/454734546869551114/966239886829060096/988321855322615840
+        - https://discord.com/channels/454734546869551114/966239886829060096/985558538044710932
+        - https://discord.com/channels/454734546869551114/966239886829060096/985129713200685066
+        - https://discord.com/channels/454734546869551114/966239886829060096/984530776408346634
+        - https://discord.com/channels/454734546869551114/966239886829060096/984294264433430568
+        - https://discord.com/channels/454734546869551114/966239886829060096/983561639938895942
+        - https://discord.com/channels/454734546869551114/966239886829060096/982586947035889704
 
 ## Router Track Mission 3 (23.05-30.05)
 
@@ -70,14 +80,37 @@ I will try my best to support Connext with my most abilities and help the commun
         - [0x1a6e7fa8dd0c876dc6c3d04357536139fb22c160059c610892eba69b698e92fd](https://goerli.etherscan.io/tx/0x1a6e7fa8dd0c876dc6c3d04357536139fb22c160059c610892eba69b698e92fd) (Goeli)
         - [0x4b6b787ad9f6e686361e13c2a97f6fc9170db22a95bfe8eb6eba8c354755b7bd](https://kovan.etherscan.io/tx/0x4b6b787ad9f6e686361e13c2a97f6fc9170db22a95bfe8eb6eba8c354755b7bd) (Kovan)
 
-3. Flash Challanges (10-100 points)
+2. Flash Challanges (10-100 points)
     - Flash Challenge 1 - Explore all guides, and gather them in one place in Docs
         - [Added Guides to the Router Docs](https://github.com/connext/documentation/pull/32)
-        - [Update guides.md](https://github.com/connext/documentation/pull/45)
     - Flash Challenge 2 - Complete the routers documentation intro
         - [Added Intro to the Router Docs (waiting for PR)](https://github.com/connext/documentation/pull/38)
 
-5. Router Connext Quests (10-500 points)
+## Router Track Mission 4 (08.06-23.06)
 
+1. Improve connext docs. We have a lot of good guides - now we need to improve official documentation quality. Expected result is PR with edit in connext docs https://docs.connext.network/routers/intro (5-50 points)
+    - [Update guides.md, added the script part](https://github.com/connext/documentation/commit/5a232156c4ab4635f331267a17b49776e0564a2c)
 
+## Router Track Mission 5 (24.06-03.07)
 
+1. Team-quest 1. Intro. Create a simple but in-depth intro for router documentation with diagrams. Who are routers, why do we need them in Connext, how do they work, and which business model and risks do they have. The basic info is presented in the blog, but you can ask the team for any missing information. 
+https://github.com/connext/documentation/blob/main/docs/routers/intro.md
+
+    **SUBMITTED WORK**: https://github.com/connext/documentation/pull/62
+    
+    **DRAFT REPO**: https://github.com/rroojrooj/Connext-Documentation
+
+    - ROLES: Team Mentor
+    - FEEDBACK: Please check the contribution of each team memeber because I don't think that everyone work equally.
+        If I need to give points based on their work, ideas, and usefulness, I would propose:
+        1. Bhun#1783 (8.5/10)
+        2. VArt#9432 (7.5/10)
+        3. Tung#6913 (5.5/10)
+        4. MAG#0106 (2/10)
+        5. alex_mart#0948 (0/10)
+
+    The points I gave are based on my opinions. Therefore, please check from your own POV. This is the commit history: 
+
+    Second Draft (final draft): https://github.com/rroojrooj/Connext-Documentation/commits/d8d5ab0f5c16114d8d110760502442d69f91c526/firstdraft-intro.md?browsing_rename_history=true&new_path=finaldraft-intro.md&original_branch=main
+    
+    First Draft: https://github.com/rroojrooj/Connext-Documentation/commits/main/intro-quest1.md
