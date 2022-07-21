@@ -109,7 +109,7 @@ https://github.com/connext/documentation/blob/main/docs/routers/intro.md
         4. MAG#0106 (2/10)
         5. alex_mart#0948 (0/10)
 
-    The points I gave is based on my opinions. Therefore, please check form your own POV. This is the commit history: 
+    The points I gave are based on my opinions. Therefore, please check from your own POV. This is the commit history: 
 
     Second Draft (final draft): https://github.com/rroojrooj/Connext-Documentation/commits/d8d5ab0f5c16114d8d110760502442d69f91c526/firstdraft-intro.md?browsing_rename_history=true&new_path=finaldraft-intro.md&original_branch=main
     
